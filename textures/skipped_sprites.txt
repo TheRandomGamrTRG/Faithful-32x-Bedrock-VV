@@ -1,0 +1,2635 @@
+TGA files created: 664
+TGA files skipped: 2632
+
+blocks/acacia_trapdoor_mers.tga - inconsistent color mapping
+blocks/amethyst_cluster_mers.tga - inconsistent color mapping
+blocks/ancient_debris_side_mers.tga - inconsistent color mapping
+blocks/ancient_debris_top_mers.tga - inconsistent color mapping
+blocks/anvil_base_mers.tga - inconsistent color mapping
+blocks/anvil_top_damaged_0_mers.tga - inconsistent color mapping
+blocks/anvil_top_damaged_1_mers.tga - inconsistent color mapping
+blocks/anvil_top_damaged_2_mers.tga - inconsistent color mapping
+blocks/azalea_leaves_flowers.tga - inconsistent color mapping
+blocks/azalea_leaves_flowers_mers.tga - inconsistent color mapping
+blocks/azalea_leaves_flowers_opaque_mers.tga - inconsistent color mapping
+blocks/azalea_leaves_mers.tga - inconsistent color mapping
+blocks/azalea_leaves_opaque_mers.tga - inconsistent color mapping
+blocks/azalea_leaves_flowers - 32x PNG has unknown colors
+blocks/azalea_leaves_flowers_opaque - 32x PNG has unknown colors
+blocks/azalea_leaves_opaque - 32x PNG has unknown colors
+blocks/azalea_plant_mers.tga - inconsistent color mapping
+blocks/azalea_side_mers.tga - inconsistent color mapping
+blocks/azalea_top_mers.tga - inconsistent color mapping
+blocks/bamboo_block_top_mers.tga - inconsistent color mapping
+blocks/bamboo_fence_gate_mers.tga - inconsistent color mapping
+blocks/bamboo_leaf - 32x PNG has unknown colors
+blocks/bamboo_sapling - 32x PNG has unknown colors
+blocks/bamboo_singleleaf - 32x PNG has unknown colors
+blocks/bamboo_small_leaf - 32x PNG has unknown colors
+blocks/barrel_bottom - 32x PNG has unknown colors
+blocks/barrel_side_mers.tga - inconsistent color mapping
+blocks/barrel_top_mers.tga - inconsistent color mapping
+blocks/barrel_top_open_mers.tga - inconsistent color mapping
+blocks/barrier - 32x PNG has unknown colors
+blocks/beacon_mers.tga - inconsistent color mapping
+blocks/bed_feet_end - 32x PNG has unknown colors
+blocks/bed_feet_side - 32x PNG has unknown colors
+blocks/bed_feet_top - 32x PNG has unknown colors
+blocks/bed_head_end - 32x PNG has unknown colors
+blocks/bed_head_side - 32x PNG has unknown colors
+blocks/bed_head_top - 32x PNG has unknown colors
+blocks/beehive_front - 32x PNG has unknown colors
+blocks/beehive_front_honey - 32x PNG has unknown colors
+blocks/beehive_top - 32x PNG has unknown colors
+blocks/beetroots_stage_0 - 32x PNG has unknown colors
+blocks/beetroots_stage_1 - 32x PNG has unknown colors
+blocks/beetroots_stage_2 - 32x PNG has unknown colors
+blocks/beetroots_stage_3 - 32x PNG has unknown colors
+blocks/bee_nest_bottom_mers.tga - inconsistent color mapping
+blocks/bee_nest_front_honey_mers.tga - inconsistent color mapping
+blocks/bee_nest_front_mers.tga - inconsistent color mapping
+blocks/bee_nest_front_honey_mers.tga - inconsistent color mapping
+blocks/bee_nest_side_mers.tga - inconsistent color mapping
+blocks/bee_nest_top_mers.tga - inconsistent color mapping
+blocks/bell_bottom - 32x PNG has unknown colors
+blocks/bell_side - 32x PNG has unknown colors
+blocks/bell_top - 32x PNG has unknown colors
+blocks/big_dripleaf_side1_mers.tga - inconsistent color mapping
+blocks/big_dripleaf_side2_mers.tga - inconsistent color mapping
+blocks/big_dripleaf_stem_mers.tga - inconsistent color mapping
+blocks/big_dripleaf_top_mers.tga - inconsistent color mapping
+blocks/birch_trapdoor_mers.tga - inconsistent color mapping
+blocks/blackstone_top_mers.tga - inconsistent color mapping
+blocks/blast_furnace_front_off_mers.tga - inconsistent color mapping
+blocks/blast_furnace_front_on_mers.tga - inconsistent color mapping
+blocks/blast_furnace_side_mers.tga - inconsistent color mapping
+blocks/blast_furnace_top_mers.tga - inconsistent color mapping
+blocks/bookshelf_mers.tga - inconsistent color mapping
+blocks/border - 32x PNG has unknown colors
+blocks/brewing_stand_base_mers.tga - inconsistent color mapping
+blocks/brewing_stand_mers.tga - inconsistent color mapping
+blocks/brewing_stand_base_mers.tga - inconsistent color mapping
+blocks/brick_mers.tga - inconsistent color mapping
+blocks/bubble_column_outer_a - 32x PNG has unknown colors
+blocks/bubble_column_outer_b - 32x PNG has unknown colors
+blocks/bubble_column_outer_c - 32x PNG has unknown colors
+blocks/bubble_column_outer_d - 32x PNG has unknown colors
+blocks/bubble_column_outer_e - 32x PNG has unknown colors
+blocks/bubble_column_outer_f - 32x PNG has unknown colors
+blocks/bubble_column_outer_g - 32x PNG has unknown colors
+blocks/bubble_column_outer_h - 32x PNG has unknown colors
+blocks/build_allow - 32x PNG has unknown colors
+blocks/build_deny - 32x PNG has unknown colors
+blocks/cake_bottom_mers.tga - inconsistent color mapping
+blocks/cake_inner_mers.tga - inconsistent color mapping
+blocks/cake_side_mers.tga - inconsistent color mapping
+blocks/cake_top_mers.tga - inconsistent color mapping
+blocks/calibrated_sculk_sensor_amethyst - 32x PNG has unknown colors
+blocks/calibrated_sculk_sensor_input_side_mers.tga - inconsistent color mapping
+blocks/calibrated_sculk_sensor_top_mers.tga - inconsistent color mapping
+blocks/campfire_log_lit_mers.tga - mismatched size
+blocks/campfire_log_mers.tga - mismatched size
+blocks/campfire_log_lit_mers.tga - mismatched size
+blocks/campfire_log_mers.tga - inconsistent color mapping
+blocks/campfire_log_lit_mers.tga - inconsistent color mapping
+blocks/carried_waterlily_mers.tga - inconsistent color mapping
+blocks/carrots_stage3_mers.tga - inconsistent color mapping
+blocks/carrots_stage_0_mers.tga - inconsistent color mapping
+blocks/carrots_stage_1_mers.tga - inconsistent color mapping
+blocks/carrots_stage_2_mers.tga - inconsistent color mapping
+blocks/carrots_stage_3_mers.tga - inconsistent color mapping
+blocks/cartography_table_side1_mers.tga - inconsistent color mapping
+blocks/cartography_table_side2_mers.tga - inconsistent color mapping
+blocks/cartography_table_side3_mers.tga - inconsistent color mapping
+blocks/cartography_table_top_mers.tga - inconsistent color mapping
+blocks/cauldron_bottom - 32x PNG has unknown colors
+blocks/cauldron_inner_mers.tga - inconsistent color mapping
+blocks/cauldron_side_mers.tga - inconsistent color mapping
+blocks/cauldron_top_mers.tga - inconsistent color mapping
+blocks/cauldron_water - 32x PNG has unknown colors
+blocks/cauldron_water_placeholder - 32x PNG has unknown colors
+blocks/cave_vines_body_berries_mers.tga - inconsistent color mapping
+blocks/cave_vines_head_berries_mers.tga - inconsistent color mapping
+blocks/cave_vines_head_berries_mers.tga - inconsistent color mapping
+blocks/chain1 - 32x PNG has unknown colors
+blocks/chain2 - 32x PNG has unknown colors
+blocks/chain_command_block_back_mipmap_mers.tga - mismatched size
+blocks/chain_command_block_back_mipmap - 32x PNG has unknown colors
+blocks/chain_command_block_conditional - 32x PNG has unknown colors
+blocks/chain_command_block_conditional_mipmap - 32x PNG has unknown colors
+blocks/chain_command_block_front - 32x PNG has unknown colors
+blocks/chain_command_block_front_mipmap - 32x PNG has unknown colors
+blocks/chain_command_block_side_mipmap_mers.tga - mismatched size
+blocks/chain_command_block_side_mipmap - 32x PNG has unknown colors
+blocks/cherry_door_bottom_mers.tga - inconsistent color mapping
+blocks/cherry_door_top - 32x PNG has unknown colors
+blocks/cherry_leaves - 32x PNG has unknown colors
+blocks/cherry_leaves_opaque_mers.tga - inconsistent color mapping
+blocks/cherry_log_side_mers.tga - inconsistent color mapping
+blocks/cherry_log_top_mers.tga - inconsistent color mapping
+blocks/cherry_sapling - 32x PNG has unknown colors
+blocks/chest_front - 32x PNG has unknown colors
+blocks/chest_side - 32x PNG has unknown colors
+blocks/chest_top - 32x PNG has unknown colors
+blocks/chiseled_bookshelf_occupied - 32x PNG has unknown colors
+blocks/chiseled_copper_mers.tga - inconsistent color mapping
+blocks/chiseled_nether_bricks - 32x PNG has unknown colors
+blocks/chiseled_resin_bricks_mers.tga - inconsistent color mapping
+blocks/chiseled_tuff - 32x PNG has unknown colors
+blocks/chiseled_tuff_bricks_top_mers.tga - inconsistent color mapping
+blocks/chorus_flower_dead_mers.tga - inconsistent color mapping
+blocks/chorus_flower_mers.tga - inconsistent color mapping
+blocks/chorus_flower_dead_mers.tga - inconsistent color mapping
+blocks/chorus_plant_mers.tga - inconsistent color mapping
+blocks/coal_block_mers.tga - inconsistent color mapping
+blocks/coarse_dirt - 32x PNG has unknown colors
+blocks/cobblestone_mossy_mers.tga - inconsistent color mapping
+blocks/cobblestone_mossy - 32x PNG has unknown colors
+blocks/cocoa_stage_2 - 32x PNG has unknown colors
+blocks/command_block - 32x PNG has unknown colors
+blocks/command_block_back_mipmap_mers.tga - mismatched size
+blocks/command_block_back_mipmap - 32x PNG has unknown colors
+blocks/command_block_conditional - 32x PNG has unknown colors
+blocks/command_block_conditional_mipmap - 32x PNG has unknown colors
+blocks/command_block_front - 32x PNG has unknown colors
+blocks/command_block_front_mipmap - 32x PNG has unknown colors
+blocks/command_block_side_mipmap_mers.tga - mismatched size
+blocks/command_block_side_mipmap - 32x PNG has unknown colors
+blocks/comparator_off_mers.tga - inconsistent color mapping
+blocks/comparator_on_mers.tga - inconsistent color mapping
+blocks/compost - 32x PNG has unknown colors
+blocks/composter_side - 32x PNG has unknown colors
+blocks/composter_top - 32x PNG has unknown colors
+blocks/compost_ready - 32x PNG has unknown colors
+blocks/concrete_black - 32x PNG has unknown colors
+blocks/concrete_blue - 32x PNG has unknown colors
+blocks/concrete_brown - 32x PNG has unknown colors
+blocks/concrete_cyan - 32x PNG has unknown colors
+blocks/concrete_gray - 32x PNG has unknown colors
+blocks/concrete_green - 32x PNG has unknown colors
+blocks/concrete_light_blue - 32x PNG has unknown colors
+blocks/concrete_lime - 32x PNG has unknown colors
+blocks/concrete_magenta - 32x PNG has unknown colors
+blocks/concrete_orange - 32x PNG has unknown colors
+blocks/concrete_pink - 32x PNG has unknown colors
+blocks/concrete_powder_black - 32x PNG has unknown colors
+blocks/concrete_powder_blue - 32x PNG has unknown colors
+blocks/concrete_powder_brown - 32x PNG has unknown colors
+blocks/concrete_powder_cyan - 32x PNG has unknown colors
+blocks/concrete_powder_gray - 32x PNG has unknown colors
+blocks/concrete_powder_green - 32x PNG has unknown colors
+blocks/concrete_powder_light_blue - 32x PNG has unknown colors
+blocks/concrete_powder_lime - 32x PNG has unknown colors
+blocks/concrete_powder_magenta - 32x PNG has unknown colors
+blocks/concrete_powder_orange - 32x PNG has unknown colors
+blocks/concrete_powder_pink - 32x PNG has unknown colors
+blocks/concrete_powder_purple - 32x PNG has unknown colors
+blocks/concrete_powder_red - 32x PNG has unknown colors
+blocks/concrete_powder_silver - 32x PNG has unknown colors
+blocks/concrete_powder_white - 32x PNG has unknown colors
+blocks/concrete_powder_yellow - 32x PNG has unknown colors
+blocks/concrete_purple - 32x PNG has unknown colors
+blocks/concrete_red - 32x PNG has unknown colors
+blocks/concrete_silver - 32x PNG has unknown colors
+blocks/concrete_white - 32x PNG has unknown colors
+blocks/concrete_yellow - 32x PNG has unknown colors
+blocks/conduit_base - 32x PNG has unknown colors
+blocks/conduit_cage - 32x PNG has unknown colors
+blocks/conduit_open - 32x PNG has unknown colors
+blocks/conduit_wind_horizontal - 32x PNG has unknown colors
+blocks/conduit_wind_vertical - 32x PNG has unknown colors
+blocks/copper_bulb_lit_mers.tga - inconsistent color mapping
+blocks/copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+blocks/copper_bulb_powered_mers.tga - inconsistent color mapping
+blocks/copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+blocks/copper_bulb_powered - 32x PNG has unknown colors
+blocks/coral_fan_blue_dead_mers.tga - inconsistent color mapping
+blocks/coral_fan_blue_dead - 32x PNG has unknown colors
+blocks/coral_fan_pink_dead_mers.tga - inconsistent color mapping
+blocks/coral_fan_pink_dead - 32x PNG has unknown colors
+blocks/coral_fan_purple - 32x PNG has unknown colors
+blocks/coral_fan_purple_dead - 32x PNG has unknown colors
+blocks/coral_fan_red_dead_mers.tga - inconsistent color mapping
+blocks/coral_fan_red_dead - 32x PNG has unknown colors
+blocks/coral_fan_yellow_dead_mers.tga - inconsistent color mapping
+blocks/coral_fan_yellow_dead - 32x PNG has unknown colors
+blocks/coral_purple - 32x PNG has unknown colors
+blocks/coral_red - 32x PNG has unknown colors
+blocks/cracked_nether_bricks_mers.tga - inconsistent color mapping
+blocks/crafter_bottom_mers.tga - inconsistent color mapping
+blocks/crafter_east_crafting_mers.tga - inconsistent color mapping
+blocks/crafter_north - 32x PNG has unknown colors
+blocks/crafter_north_crafting - 32x PNG has unknown colors
+blocks/crafter_south - 32x PNG has unknown colors
+blocks/crafter_top_crafting_mers.tga - inconsistent color mapping
+blocks/crafter_top_triggered_mers.tga - inconsistent color mapping
+blocks/crafter_west_crafting_mers.tga - inconsistent color mapping
+blocks/crafting_table_front_mers.tga - inconsistent color mapping
+blocks/crafting_table_side_mers.tga - inconsistent color mapping
+blocks/crafting_table_top - 32x PNG has unknown colors
+blocks/creaking_heart_side_active_mers.tga - inconsistent color mapping
+blocks/creaking_heart_side_dormant_mers.tga - inconsistent color mapping
+blocks/creaking_heart_side_inactive_mers.tga - inconsistent color mapping
+blocks/creaking_heart_top_active_mers.tga - inconsistent color mapping
+blocks/creaking_heart_top_dormant_mers.tga - inconsistent color mapping
+blocks/creaking_heart_top_inactive_mers.tga - inconsistent color mapping
+blocks/crimson_fungus_mers.tga - inconsistent color mapping
+blocks/crimson_roots_mers.tga - inconsistent color mapping
+blocks/crimson_roots_pot_mers.tga - inconsistent color mapping
+blocks/crimson_roots_pot_mers.tga - inconsistent color mapping
+blocks/crying_obsidian_mers.tga - inconsistent color mapping
+blocks/daylight_detector_inverted_top_mers.tga - inconsistent color mapping
+blocks/daylight_detector_side_mers.tga - inconsistent color mapping
+blocks/daylight_detector_top_mers.tga - inconsistent color mapping
+blocks/deadbush_mers.tga - inconsistent color mapping
+blocks/diamond_ore - 32x PNG has unknown colors
+blocks/dirt_mers.tga - inconsistent color mapping
+blocks/dirt_podzol_side_mers.tga - inconsistent color mapping
+blocks/dirt_podzol_top_mers.tga - inconsistent color mapping
+blocks/dirt_with_roots_mers.tga - inconsistent color mapping
+blocks/dirt_podzol_side - 32x PNG has unknown colors
+blocks/dirt_with_roots_mers.tga - inconsistent color mapping
+blocks/door_acacia_lower - 32x PNG has unknown colors
+blocks/door_acacia_upper_mers.tga - inconsistent color mapping
+blocks/door_birch_lower - 32x PNG has unknown colors
+blocks/door_birch_upper - 32x PNG has unknown colors
+blocks/door_dark_oak_lower - 32x PNG has unknown colors
+blocks/door_dark_oak_upper - 32x PNG has unknown colors
+blocks/door_iron_lower - 32x PNG has unknown colors
+blocks/door_iron_upper - 32x PNG has unknown colors
+blocks/door_jungle_lower - 32x PNG has unknown colors
+blocks/door_jungle_upper - 32x PNG has unknown colors
+blocks/door_spruce_lower - 32x PNG has unknown colors
+blocks/door_spruce_upper - 32x PNG has unknown colors
+blocks/door_wood_lower - 32x PNG has unknown colors
+blocks/door_wood_upper - 32x PNG has unknown colors
+blocks/double_plant_fern_carried - 32x PNG has unknown colors
+blocks/double_plant_grass_carried - 32x PNG has unknown colors
+blocks/double_plant_paeonia_bottom - 32x PNG has unknown colors
+blocks/double_plant_paeonia_top - 32x PNG has unknown colors
+blocks/double_plant_rose_bottom_mers.tga - inconsistent color mapping
+blocks/double_plant_sunflower_back_mers.tga - inconsistent color mapping
+blocks/double_plant_sunflower_bottom_mers.tga - inconsistent color mapping
+blocks/double_plant_sunflower_front_mers.tga - inconsistent color mapping
+blocks/dragon_egg_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_1_back_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_1_bottom_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_1_front_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_1_left_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_1_right_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_1_tentacles_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_1_top_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_2_back_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_2_bottom_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_2_front_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_2_left_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_2_right_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_2_tentacles_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_2_top_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_3_back_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_3_bottom_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_3_front_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_3_left_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_3_right_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_3_tentacles_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_3_top_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_4_back_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_4_bottom_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_4_front - 32x PNG has unknown colors
+blocks/dried_ghast_state_4_left_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_4_right_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_4_tentacles_mers.tga - inconsistent color mapping
+blocks/dried_ghast_state_4_top_mers.tga - inconsistent color mapping
+blocks/dried_kelp_side_a_mers.tga - inconsistent color mapping
+blocks/dried_kelp_side_b_mers.tga - inconsistent color mapping
+blocks/dried_kelp_top_mers.tga - inconsistent color mapping
+blocks/emerald_ore - 32x PNG has unknown colors
+blocks/enchanting_table_side - 32x PNG has unknown colors
+blocks/enchanting_table_top - 32x PNG has unknown colors
+blocks/ender_chest_front - 32x PNG has unknown colors
+blocks/ender_chest_side - 32x PNG has unknown colors
+blocks/ender_chest_top - 32x PNG has unknown colors
+blocks/endframe_eye_mers.tga - inconsistent color mapping
+blocks/endframe_side_mers.tga - inconsistent color mapping
+blocks/endframe_top_mers.tga - inconsistent color mapping
+blocks/end_gateway - 32x PNG has unknown colors
+blocks/end_portal - 32x PNG has unknown colors
+blocks/end_rod_mers.tga - inconsistent color mapping
+blocks/exposed_chiseled_copper_mers.tga - inconsistent color mapping
+blocks/exposed_copper - 32x PNG has unknown colors
+blocks/exposed_copper_bulb - 32x PNG has unknown colors
+blocks/exposed_copper_bulb_lit - 32x PNG has unknown colors
+blocks/exposed_copper_bulb_lit_powered - 32x PNG has unknown colors
+blocks/exposed_copper_bulb_powered - 32x PNG has unknown colors
+blocks/exposed_copper_door_bottom_mers.tga - inconsistent color mapping
+blocks/exposed_copper_door_top_mers.tga - inconsistent color mapping
+blocks/exposed_copper_grate - 32x PNG has unknown colors
+blocks/exposed_copper_trapdoor - 32x PNG has unknown colors
+blocks/exposed_cut_copper_mers.tga - inconsistent color mapping
+blocks/eyeblossom_blooming_mers.tga - inconsistent color mapping
+blocks/eyeblossom_dormant_mers.tga - inconsistent color mapping
+blocks/eyeblossom_eyes_blooming_mers.tga - inconsistent color mapping
+blocks/eyeblossom_stem_blooming_mers.tga - inconsistent color mapping
+blocks/firefly_bush_firefly_mers.tga - mismatched size
+blocks/firefly_bush_mers.tga - inconsistent color mapping
+blocks/firefly_bush_firefly_mers.tga - inconsistent color mapping
+blocks/fire_0 - 32x PNG has unknown colors
+blocks/fire_0_placeholder - 32x PNG has unknown colors
+blocks/fire_1 - 32x PNG has unknown colors
+blocks/fire_1_placeholder - 32x PNG has unknown colors
+blocks/fletcher_table_side1_mers.tga - inconsistent color mapping
+blocks/fletcher_table_side2_mers.tga - inconsistent color mapping
+blocks/fletcher_table_top_mers.tga - inconsistent color mapping
+blocks/flowering_azalea_side_mers.tga - inconsistent color mapping
+blocks/flowering_azalea_top_mers.tga - inconsistent color mapping
+blocks/flower_allium - 32x PNG has unknown colors
+blocks/flower_blue_orchid_mers.tga - inconsistent color mapping
+blocks/flower_cornflower - 32x PNG has unknown colors
+blocks/flower_dandelion_mers.tga - inconsistent color mapping
+blocks/flower_houstonia_mers.tga - inconsistent color mapping
+blocks/flower_lily_of_the_valley - 32x PNG has unknown colors
+blocks/flower_oxeye_daisy - 32x PNG has unknown colors
+blocks/flower_paeonia - missing 32x PNG
+blocks/flower_rose_blue_mers.tga - inconsistent color mapping
+blocks/flower_rose_mers.tga - inconsistent color mapping
+blocks/flower_rose_blue - missing 32x PNG
+blocks/flower_tulip_orange - 32x PNG has unknown colors
+blocks/flower_tulip_pink - 32x PNG has unknown colors
+blocks/flower_tulip_red - 32x PNG has unknown colors
+blocks/flower_tulip_white - 32x PNG has unknown colors
+blocks/flower_wither_rose - 32x PNG has unknown colors
+blocks/frogspawn - 32x PNG has unknown colors
+blocks/frosted_ice_1 - 32x PNG has unknown colors
+blocks/frosted_ice_3 - 32x PNG has unknown colors
+blocks/furnace_front_off_mers.tga - inconsistent color mapping
+blocks/furnace_front_on_mers.tga - inconsistent color mapping
+blocks/furnace_side_mers.tga - inconsistent color mapping
+blocks/gilded_blackstone_mers.tga - inconsistent color mapping
+blocks/glass - 32x PNG has unknown colors
+blocks/glass_blue - 32x PNG has unknown colors
+blocks/glass_pane_top_black - 32x PNG has unknown colors
+blocks/glass_red - 32x PNG has unknown colors
+blocks/glowing_obsidian - 32x PNG has unknown colors
+blocks/glow_item_frame_mers.tga - inconsistent color mapping
+blocks/grass_block_snow - 32x PNG has unknown colors
+blocks/grass_carried - 32x PNG has unknown colors
+blocks/grass_path_side_mers.tga - inconsistent color mapping
+blocks/grass_path_top - 32x PNG has unknown colors
+blocks/grass_side_carried - 32x PNG has unknown colors
+blocks/grass_side_snowed - 32x PNG has unknown colors
+blocks/grass_top - 32x PNG has unknown colors
+blocks/hanging_roots_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_black_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_blue_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_brown_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_cyan_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_gray_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_green_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_light_blue_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_lime_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_magenta_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_orange_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_pink_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_purple_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_red_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_silver_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_white_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_yellow_mers.tga - inconsistent color mapping
+blocks/hardened_clay_stained_lime - 32x PNG has unknown colors
+blocks/hardened_clay_stained_magenta - 32x PNG has unknown colors
+blocks/hardened_clay_stained_orange - 32x PNG has unknown colors
+blocks/hardened_clay_stained_purple - 32x PNG has unknown colors
+blocks/hardened_clay_stained_white - 32x PNG has unknown colors
+blocks/hardened_clay_stained_yellow - 32x PNG has unknown colors
+blocks/hay_block_side_mers.tga - inconsistent color mapping
+blocks/hay_block_top_mers.tga - inconsistent color mapping
+blocks/heavy_core_mers.tga - inconsistent color mapping
+blocks/honey_bottom - 32x PNG has unknown colors
+blocks/honey_side - 32x PNG has unknown colors
+blocks/hopper_inside_mers.tga - inconsistent color mapping
+blocks/hopper_outside_mers.tga - inconsistent color mapping
+blocks/hopper_top - 32x PNG has unknown colors
+blocks/ice_packed_mers.tga - inconsistent color mapping
+blocks/jungle_trapdoor_mers.tga - inconsistent color mapping
+blocks/lantern_mers.tga - inconsistent color mapping
+blocks/lapis_block_mers.tga - inconsistent color mapping
+blocks/lapis_ore_mers.tga - inconsistent color mapping
+blocks/large_amethyst_bud_mers.tga - inconsistent color mapping
+blocks/lava_flow - 32x PNG has unknown colors
+blocks/lava_placeholder - 32x PNG has unknown colors
+blocks/lava_still - missing 32x PNG
+blocks/leaf_litter_mers.tga - inconsistent color mapping
+blocks/leaves_acacia_opaque - 32x PNG has unknown colors
+blocks/leaves_big_oak_opaque - 32x PNG has unknown colors
+blocks/leaves_birch_opaque - 32x PNG has unknown colors
+blocks/leaves_jungle_opaque - 32x PNG has unknown colors
+blocks/leaves_oak_opaque - 32x PNG has unknown colors
+blocks/leaves_spruce_opaque - 32x PNG has unknown colors
+blocks/lectern_base_mers.tga - inconsistent color mapping
+blocks/lectern_front_mers.tga - inconsistent color mapping
+blocks/lectern_sides_mers.tga - inconsistent color mapping
+blocks/lectern_top_mers.tga - inconsistent color mapping
+blocks/lever - 32x PNG has unknown colors
+blocks/log_acacia_top_mers.tga - inconsistent color mapping
+blocks/log_big_oak_top_mers.tga - inconsistent color mapping
+blocks/log_birch_top_mers.tga - inconsistent color mapping
+blocks/log_jungle_top_mers.tga - inconsistent color mapping
+blocks/log_jungle_top - 32x PNG has unknown colors
+blocks/log_oak_mers.tga - inconsistent color mapping
+blocks/log_oak_top_mers.tga - inconsistent color mapping
+blocks/log_oak_top_mers.tga - inconsistent color mapping
+blocks/log_spruce_mers.tga - inconsistent color mapping
+blocks/log_spruce_top_mers.tga - inconsistent color mapping
+blocks/log_spruce_top_mers.tga - inconsistent color mapping
+blocks/loom_front_mers.tga - inconsistent color mapping
+blocks/mangrove_door_bottom - 32x PNG has unknown colors
+blocks/mangrove_door_top - 32x PNG has unknown colors
+blocks/mangrove_leaves_opaque_mers.tga - inconsistent color mapping
+blocks/mangrove_log_side_mers.tga - inconsistent color mapping
+blocks/mangrove_log_top_mers.tga - inconsistent color mapping
+blocks/mangrove_propagule_hanging_mers.tga - inconsistent color mapping
+blocks/mangrove_propagule_mers.tga - inconsistent color mapping
+blocks/mangrove_propagule_hanging_mers.tga - inconsistent color mapping
+blocks/mangrove_roots_top - 32x PNG has unknown colors
+blocks/medium_amethyst_bud - 32x PNG has unknown colors
+blocks/melon_side_mers.tga - inconsistent color mapping
+blocks/melon_stem_connected_mers.tga - inconsistent color mapping
+blocks/melon_stem_disconnected - 32x PNG has unknown colors
+blocks/melon_top_mers.tga - inconsistent color mapping
+blocks/mob_spawner_mers.tga - inconsistent color mapping
+blocks/moss_block_mers.tga - inconsistent color mapping
+blocks/muddy_mangrove_roots_side_mers.tga - inconsistent color mapping
+blocks/muddy_mangrove_roots_top_mers.tga - inconsistent color mapping
+blocks/mud_bricks_mers.tga - inconsistent color mapping
+blocks/mud_mers.tga - inconsistent color mapping
+blocks/muddy_mangrove_roots_side_mers.tga - inconsistent color mapping
+blocks/muddy_mangrove_roots_top_mers.tga - inconsistent color mapping
+blocks/mushroom_block_skin_brown_mers.tga - inconsistent color mapping
+blocks/mushroom_block_skin_red - 32x PNG has unknown colors
+blocks/mushroom_block_skin_stem_mers.tga - inconsistent color mapping
+blocks/mushroom_brown_mers.tga - inconsistent color mapping
+blocks/mushroom_red_mers.tga - inconsistent color mapping
+blocks/mycelium_side_mers.tga - inconsistent color mapping
+blocks/netherite_block_mers.tga - inconsistent color mapping
+blocks/nether_brick_mers.tga - inconsistent color mapping
+blocks/nether_gold_ore_mers.tga - inconsistent color mapping
+blocks/nether_sprouts_mers.tga - inconsistent color mapping
+blocks/nether_wart_stage_0_mers.tga - inconsistent color mapping
+blocks/nether_wart_stage_1_mers.tga - inconsistent color mapping
+blocks/nether_wart_stage_2_mers.tga - inconsistent color mapping
+blocks/observer_back_lit_mers.tga - inconsistent color mapping
+blocks/observer_back_mers.tga - inconsistent color mapping
+blocks/observer_back_lit_mers.tga - inconsistent color mapping
+blocks/observer_front_mers.tga - inconsistent color mapping
+blocks/observer_side_mers.tga - inconsistent color mapping
+blocks/observer_top - 32x PNG has unknown colors
+blocks/obsidian_mers.tga - inconsistent color mapping
+blocks/oxidized_chiseled_copper_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_lit_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_powered_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_door_bottom_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_door_top_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_grate_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_trapdoor_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_lit_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_powered_mers.tga - inconsistent color mapping
+blocks/oxidized_copper_bulb_lit - 32x PNG has unknown colors
+blocks/oxidized_copper_bulb_lit_powered - 32x PNG has unknown colors
+blocks/oxidized_copper_bulb_powered_mers.tga - inconsistent color mapping
+blocks/pale_hanging_moss_middle_mers.tga - inconsistent color mapping
+blocks/pale_hanging_moss_tip_mers.tga - inconsistent color mapping
+blocks/pale_moss_block_mers.tga - inconsistent color mapping
+blocks/pale_moss_carpet_side_base_mers.tga - inconsistent color mapping
+blocks/pale_moss_carpet_side_tip_mers.tga - inconsistent color mapping
+blocks/pale_moss_mers.tga - inconsistent color mapping
+blocks/pale_moss_block_mers.tga - inconsistent color mapping
+blocks/pale_moss_carpet_side_base_mers.tga - inconsistent color mapping
+blocks/pale_moss_carpet_side_tip_mers.tga - inconsistent color mapping
+blocks/pale_oak_door_bottom_mers.tga - inconsistent color mapping
+blocks/pale_oak_leaves_opaque_mers.tga - inconsistent color mapping
+blocks/pale_oak_log_side_mers.tga - inconsistent color mapping
+blocks/pale_oak_log_top_mers.tga - inconsistent color mapping
+blocks/pale_oak_planks_mers.tga - inconsistent color mapping
+blocks/pale_oak_sapling_mers.tga - inconsistent color mapping
+blocks/pale_oak_trapdoor_mers.tga - inconsistent color mapping
+blocks/pink_petals_mers.tga - inconsistent color mapping
+blocks/pink_petals_stem_mers.tga - inconsistent color mapping
+blocks/pink_petals_stem_mers.tga - inconsistent color mapping
+blocks/piston_side - 32x PNG has unknown colors
+blocks/piston_top_normal - 32x PNG has unknown colors
+blocks/piston_top_sticky - 32x PNG has unknown colors
+blocks/pitcher_crop_bottom_stage_1_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_bottom_stage_2_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_bottom_stage_3_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_bottom_stage_4_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_bottom_stage_1_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_bottom_stage_2_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_bottom_stage_3_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_bottom_stage_4_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_top_stage_3_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_top_stage_4_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_top_stage_3_mers.tga - inconsistent color mapping
+blocks/pitcher_crop_top_stage_4_mers.tga - inconsistent color mapping
+blocks/pointed_dripstone_down_merge - 32x PNG has unknown colors
+blocks/pointed_dripstone_down_tip - 32x PNG has unknown colors
+blocks/pointed_dripstone_up_merge - 32x PNG has unknown colors
+blocks/pointed_dripstone_up_tip - 32x PNG has unknown colors
+blocks/polished_blackstone_bricks_mers.tga - inconsistent color mapping
+blocks/portal - 32x PNG has unknown colors
+blocks/portal_placeholder - 32x PNG has unknown colors
+blocks/potatoes_stage_0_mers.tga - inconsistent color mapping
+blocks/potatoes_stage_1_mers.tga - inconsistent color mapping
+blocks/potatoes_stage_2_mers.tga - inconsistent color mapping
+blocks/potatoes_stage_3_mers.tga - inconsistent color mapping
+blocks/potted_azalea_bush_plant - 32x PNG has unknown colors
+blocks/potted_azalea_bush_side - 32x PNG has unknown colors
+blocks/potted_azalea_bush_top_mers.tga - inconsistent color mapping
+blocks/potted_flowering_azalea_bush_plant - 32x PNG has unknown colors
+blocks/potted_flowering_azalea_bush_side - 32x PNG has unknown colors
+blocks/potted_flowering_azalea_bush_top_mers.tga - inconsistent color mapping
+blocks/powder_snow_mers.tga - inconsistent color mapping
+blocks/pumpkin_face_off_mers.tga - inconsistent color mapping
+blocks/pumpkin_face_on_mers.tga - inconsistent color mapping
+blocks/pumpkin_side - 32x PNG has unknown colors
+blocks/pumpkin_stem_connected - 32x PNG has unknown colors
+blocks/pumpkin_stem_disconnected - 32x PNG has unknown colors
+blocks/pumpkin_top - 32x PNG has unknown colors
+blocks/purpur_pillar_top_mers.tga - inconsistent color mapping
+blocks/quartz_block_chiseled_top_mers.tga - inconsistent color mapping
+blocks/quartz_block_lines_top_mers.tga - inconsistent color mapping
+blocks/quartz_ore_mers.tga - inconsistent color mapping
+blocks/rail_activator - 32x PNG has unknown colors
+blocks/rail_activator_powered - 32x PNG has unknown colors
+blocks/rail_detector - 32x PNG has unknown colors
+blocks/rail_detector_powered - 32x PNG has unknown colors
+blocks/rail_golden - 32x PNG has unknown colors
+blocks/rail_golden_powered - 32x PNG has unknown colors
+blocks/rail_normal_turned_mers.tga - inconsistent color mapping
+blocks/raw_copper_block_mers.tga - inconsistent color mapping
+blocks/raw_iron_block_mers.tga - inconsistent color mapping
+blocks/redstone_block_mers.tga - inconsistent color mapping
+blocks/redstone_dust_cross - 32x PNG has unknown colors
+blocks/redstone_dust_line - 32x PNG has unknown colors
+blocks/redstone_lamp_off_mers.tga - inconsistent color mapping
+blocks/redstone_lamp_on_mers.tga - inconsistent color mapping
+blocks/redstone_ore_mers.tga - inconsistent color mapping
+blocks/redstone_torch_off - 32x PNG has unknown colors
+blocks/redstone_torch_on - 32x PNG has unknown colors
+blocks/red_nether_brick_mers.tga - inconsistent color mapping
+blocks/red_sandstone_bottom_mers.tga - inconsistent color mapping
+blocks/red_sandstone_carved_mers.tga - inconsistent color mapping
+blocks/red_sandstone_normal_mers.tga - inconsistent color mapping
+blocks/red_sandstone_smooth_mers.tga - inconsistent color mapping
+blocks/red_sandstone_top_mers.tga - inconsistent color mapping
+blocks/reinforced_deepslate_bottom_mers.tga - inconsistent color mapping
+blocks/reinforced_deepslate_side_mers.tga - inconsistent color mapping
+blocks/reinforced_deepslate_top_mers.tga - inconsistent color mapping
+blocks/repeater_off_mers.tga - inconsistent color mapping
+blocks/repeater_on_mers.tga - inconsistent color mapping
+blocks/repeating_command_block_back_mipmap_mers.tga - mismatched size
+blocks/repeating_command_block_back_mipmap - 32x PNG has unknown colors
+blocks/repeating_command_block_conditional - 32x PNG has unknown colors
+blocks/repeating_command_block_conditional_mipmap - 32x PNG has unknown colors
+blocks/repeating_command_block_front - 32x PNG has unknown colors
+blocks/repeating_command_block_front_mipmap - 32x PNG has unknown colors
+blocks/repeating_command_block_side_mipmap_mers.tga - mismatched size
+blocks/repeating_command_block_side_mipmap - 32x PNG has unknown colors
+blocks/resin_bricks_mers.tga - inconsistent color mapping
+blocks/resin_clump_mers.tga - inconsistent color mapping
+blocks/respawn_anchor_side0_mers.tga - inconsistent color mapping
+blocks/respawn_anchor_side1 - 32x PNG has unknown colors
+blocks/respawn_anchor_side2_mers.tga - inconsistent color mapping
+blocks/respawn_anchor_side3_mers.tga - inconsistent color mapping
+blocks/respawn_anchor_side4_mers.tga - inconsistent color mapping
+blocks/respawn_anchor_top - 32x PNG has unknown colors
+blocks/respawn_anchor_top_off - 32x PNG has unknown colors
+blocks/sandstone_bottom_mers.tga - inconsistent color mapping
+blocks/sandstone_carved_mers.tga - inconsistent color mapping
+blocks/sandstone_normal_mers.tga - inconsistent color mapping
+blocks/sandstone_smooth_mers.tga - inconsistent color mapping
+blocks/sandstone_top_mers.tga - inconsistent color mapping
+blocks/sculk_catalyst_bottom_mers.tga - mismatched size
+blocks/sculk_catalyst_side_bloom_mers.tga - mismatched size
+blocks/sculk_catalyst_side_mers.tga - mismatched size
+blocks/sculk_catalyst_top_bloom_mers.tga - mismatched size
+blocks/sculk_catalyst_top_mers.tga - mismatched size
+blocks/sculk_mers.tga - inconsistent color mapping
+blocks/sculk_sensor_bottom_mers.tga - mismatched size
+blocks/sculk_sensor_side_mers.tga - mismatched size
+blocks/sculk_sensor_tendril_active_mers.tga - mismatched size
+blocks/sculk_sensor_tendril_inactive_mers.tga - mismatched size
+blocks/sculk_sensor_top_mers.tga - mismatched size
+blocks/sculk_shrieker_bottom_mers.tga - mismatched size
+blocks/sculk_shrieker_can_summon_inner_top_mers.tga - mismatched size
+blocks/sculk_shrieker_inner_top_mers.tga - mismatched size
+blocks/sculk_shrieker_side_mers.tga - mismatched size
+blocks/sculk_shrieker_top_mers.tga - mismatched size
+blocks/sculk_vein_mers.tga - inconsistent color mapping
+blocks/sculk_catalyst_bottom_mers.tga - inconsistent color mapping
+blocks/sculk_catalyst_side_bloom_mers.tga - mismatched size
+blocks/sculk_catalyst_side_mers.tga - inconsistent color mapping
+blocks/sculk_catalyst_side_bloom - 32x PNG has unknown colors
+blocks/sculk_catalyst_top_bloom_mers.tga - mismatched size
+blocks/sculk_catalyst_top_mers.tga - inconsistent color mapping
+blocks/sculk_catalyst_top_bloom_mers.tga - inconsistent color mapping
+blocks/sculk_sensor_side_mers.tga - inconsistent color mapping
+blocks/sculk_sensor_tendril_inactive_mers.tga - inconsistent color mapping
+blocks/sculk_sensor_top_mers.tga - inconsistent color mapping
+blocks/sculk_shrieker_bottom_mers.tga - inconsistent color mapping
+blocks/sculk_shrieker_can_summon_inner_top - 32x PNG has unknown colors
+blocks/sculk_shrieker_inner_top - 32x PNG has unknown colors
+blocks/sculk_shrieker_side - 32x PNG has unknown colors
+blocks/sculk_shrieker_top_mers.tga - inconsistent color mapping
+blocks/seagrass_carried_mers.tga - mismatched size
+blocks/seagrass_doubletall_bottom_a.tga - mismatched size
+blocks/seagrass_doubletall_bottom_a_mers.tga - mismatched size
+blocks/seagrass_doubletall_bottom_b.tga - mismatched size
+blocks/seagrass_doubletall_bottom_b_mers.tga - mismatched size
+blocks/seagrass_doubletall_top_a.tga - mismatched size
+blocks/seagrass_doubletall_top_a_mers.tga - mismatched size
+blocks/seagrass_doubletall_top_b.tga - mismatched size
+blocks/seagrass_doubletall_top_b_mers.tga - mismatched size
+blocks/seagrass_carried - 32x PNG has unknown colors
+blocks/sea_pickle - 32x PNG has unknown colors
+blocks/shulker_top_black - 32x PNG has unknown colors
+blocks/shulker_top_blue - 32x PNG has unknown colors
+blocks/shulker_top_brown - 32x PNG has unknown colors
+blocks/shulker_top_cyan - 32x PNG has unknown colors
+blocks/shulker_top_gray - 32x PNG has unknown colors
+blocks/shulker_top_green - 32x PNG has unknown colors
+blocks/shulker_top_light_blue - 32x PNG has unknown colors
+blocks/shulker_top_lime - 32x PNG has unknown colors
+blocks/shulker_top_magenta - 32x PNG has unknown colors
+blocks/shulker_top_orange - 32x PNG has unknown colors
+blocks/shulker_top_pink - 32x PNG has unknown colors
+blocks/shulker_top_purple - 32x PNG has unknown colors
+blocks/shulker_top_red - 32x PNG has unknown colors
+blocks/shulker_top_silver - 32x PNG has unknown colors
+blocks/shulker_top_undyed - 32x PNG has unknown colors
+blocks/shulker_top_white - 32x PNG has unknown colors
+blocks/shulker_top_yellow - 32x PNG has unknown colors
+blocks/small_amethyst_bud_mers.tga - inconsistent color mapping
+blocks/small_dripleaf_side_mers.tga - inconsistent color mapping
+blocks/small_dripleaf_stem_bottom_mers.tga - inconsistent color mapping
+blocks/small_dripleaf_stem_top_mers.tga - inconsistent color mapping
+blocks/small_dripleaf_top_mers.tga - inconsistent color mapping
+blocks/smithing_table_bottom - 32x PNG has unknown colors
+blocks/smithing_table_front_mers.tga - inconsistent color mapping
+blocks/smithing_table_side_mers.tga - inconsistent color mapping
+blocks/smithing_table_top_mers.tga - inconsistent color mapping
+blocks/smoker_bottom - 32x PNG has unknown colors
+blocks/smoker_front_off_mers.tga - inconsistent color mapping
+blocks/smoker_front_on - 32x PNG has unknown colors
+blocks/smoker_side - 32x PNG has unknown colors
+blocks/smoker_top - 32x PNG has unknown colors
+blocks/sniffer_egg_not_cracked_bottom_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_not_cracked_east - 32x PNG has unknown colors
+blocks/sniffer_egg_not_cracked_north_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_not_cracked_south_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_not_cracked_top_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_not_cracked_west - 32x PNG has unknown colors
+blocks/sniffer_egg_slightly_cracked_bottom_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_slightly_cracked_east - 32x PNG has unknown colors
+blocks/sniffer_egg_slightly_cracked_north_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_slightly_cracked_south_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_slightly_cracked_top_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_slightly_cracked_west - 32x PNG has unknown colors
+blocks/sniffer_egg_very_cracked_bottom_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_very_cracked_east - 32x PNG has unknown colors
+blocks/sniffer_egg_very_cracked_north_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_very_cracked_south_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_very_cracked_top_mers.tga - inconsistent color mapping
+blocks/sniffer_egg_very_cracked_west - 32x PNG has unknown colors
+blocks/snow_mers.tga - inconsistent color mapping
+blocks/soul_campfire_log_lit_mers.tga - mismatched size
+blocks/soul_campfire_log_lit_mers.tga - inconsistent color mapping
+blocks/soul_fire_0 - 32x PNG has unknown colors
+blocks/soul_fire_1 - 32x PNG has unknown colors
+blocks/soul_lantern_mers.tga - inconsistent color mapping
+blocks/soul_torch - 32x PNG has unknown colors
+blocks/sponge_wet_mers.tga - inconsistent color mapping
+blocks/spore_blossom_base_mers.tga - inconsistent color mapping
+blocks/spore_blossom_mers.tga - inconsistent color mapping
+blocks/spore_blossom_base_mers.tga - inconsistent color mapping
+blocks/spruce_trapdoor - 32x PNG has unknown colors
+blocks/stonebrick_carved_mers.tga - inconsistent color mapping
+blocks/stonebrick_cracked_mers.tga - inconsistent color mapping
+blocks/stonebrick_mers.tga - inconsistent color mapping
+blocks/stonebrick_mossy_mers.tga - inconsistent color mapping
+blocks/stonecutter2_bottom_mers.tga - inconsistent color mapping
+blocks/stonecutter2_saw.tga - mismatched size
+blocks/stonecutter2_saw_mers.tga - mismatched size
+blocks/stonecutter2_side_mers.tga - inconsistent color mapping
+blocks/stonecutter2_top_mers.tga - inconsistent color mapping
+blocks/stonecutter_bottom_mers.tga - inconsistent color mapping
+blocks/stonecutter_other_side_mers.tga - inconsistent color mapping
+blocks/stonecutter_side_mers.tga - inconsistent color mapping
+blocks/stonecutter_top_mers.tga - inconsistent color mapping
+blocks/stone_andesite_mers.tga - inconsistent color mapping
+blocks/stone_andesite_smooth_mers.tga - inconsistent color mapping
+blocks/stone_diorite_mers.tga - inconsistent color mapping
+blocks/stone_diorite_smooth_mers.tga - inconsistent color mapping
+blocks/stone_granite_mers.tga - inconsistent color mapping
+blocks/stone_granite_smooth_mers.tga - inconsistent color mapping
+blocks/stone_slab_side_mers.tga - inconsistent color mapping
+blocks/stone_slab_top_mers.tga - inconsistent color mapping
+blocks/stonebrick_carved_mers.tga - inconsistent color mapping
+blocks/stonebrick_cracked_mers.tga - inconsistent color mapping
+blocks/stonebrick_mossy_mers.tga - inconsistent color mapping
+blocks/stonecutter2_bottom_mers.tga - inconsistent color mapping
+blocks/stonecutter2_side_mers.tga - inconsistent color mapping
+blocks/stonecutter2_top_mers.tga - inconsistent color mapping
+blocks/stonecutter_bottom - 32x PNG has unknown colors
+blocks/stonecutter_other_side - 32x PNG has unknown colors
+blocks/stonecutter_side - 32x PNG has unknown colors
+blocks/stonecutter_top - 32x PNG has unknown colors
+blocks/stone_andesite_smooth_mers.tga - inconsistent color mapping
+blocks/stone_diorite_smooth_mers.tga - inconsistent color mapping
+blocks/stone_granite_smooth_mers.tga - inconsistent color mapping
+blocks/stripped_acacia_log - 32x PNG has unknown colors
+blocks/stripped_bamboo_block_top_mers.tga - inconsistent color mapping
+blocks/stripped_bamboo_block_top - 32x PNG has unknown colors
+blocks/stripped_birch_log_top_mers.tga - inconsistent color mapping
+blocks/stripped_dark_oak_log - 32x PNG has unknown colors
+blocks/stripped_jungle_log_top_mers.tga - inconsistent color mapping
+blocks/stripped_oak_log - 32x PNG has unknown colors
+blocks/stripped_pale_oak_log_side_mers.tga - inconsistent color mapping
+blocks/stripped_pale_oak_log_top_mers.tga - inconsistent color mapping
+blocks/stripped_spruce_log - 32x PNG has unknown colors
+blocks/structure_block - 32x PNG has unknown colors
+blocks/structure_block_export - 32x PNG has unknown colors
+blocks/structure_block_save - 32x PNG has unknown colors
+blocks/sweet_berry_bush_stage0_mers.tga - inconsistent color mapping
+blocks/sweet_berry_bush_stage1_mers.tga - inconsistent color mapping
+blocks/sweet_berry_bush_stage2_mers.tga - inconsistent color mapping
+blocks/sweet_berry_bush_stage3_mers.tga - inconsistent color mapping
+blocks/tallgrass - 32x PNG has unknown colors
+blocks/target_side_mers.tga - inconsistent color mapping
+blocks/target_top_mers.tga - inconsistent color mapping
+blocks/tinted_glass - 32x PNG has unknown colors
+blocks/tnt_bottom - 32x PNG has unknown colors
+blocks/tnt_side - 32x PNG has unknown colors
+blocks/torchflower_crop_stage_0_mers.tga - inconsistent color mapping
+blocks/torchflower_crop_stage_1_mers.tga - inconsistent color mapping
+blocks/torchflower_mers.tga - inconsistent color mapping
+blocks/torchflower_crop_stage_0 - 32x PNG has unknown colors
+blocks/torchflower_crop_stage_1 - 32x PNG has unknown colors
+blocks/torch_on - 32x PNG has unknown colors
+blocks/trapped_chest_front - 32x PNG has unknown colors
+blocks/trial_spawner_bottom_mers.tga - inconsistent color mapping
+blocks/trial_spawner_side - missing 32x PNG
+blocks/trial_spawner_side_active_mers.tga - inconsistent color mapping
+blocks/trial_spawner_side_active_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_side_active_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_side_inactive_mers.tga - inconsistent color mapping
+blocks/trial_spawner_side_inactive_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_side_inactive_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top - missing 32x PNG
+blocks/trial_spawner_top_active_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_active_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_active_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_ejecting_reward_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_ejecting_reward_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_ejecting_reward_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_inactive_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_inactive_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_inactive_ominous_mers.tga - inconsistent color mapping
+blocks/trial_spawner_top_open - missing 32x PNG
+blocks/trip_wire - 32x PNG has unknown colors
+blocks/trip_wire_source_mers.tga - inconsistent color mapping
+blocks/tuff_bricks_mers.tga - inconsistent color mapping
+blocks/tuff_mers.tga - inconsistent color mapping
+blocks/turtle_egg_not_cracked_mers.tga - inconsistent color mapping
+blocks/turtle_egg_slightly_cracked_mers.tga - inconsistent color mapping
+blocks/turtle_egg_very_cracked - 32x PNG has unknown colors
+blocks/twisting_vines_base_mers.tga - inconsistent color mapping
+blocks/twisting_vines_bottom_mers.tga - inconsistent color mapping
+blocks/vault_bottom_mers.tga - inconsistent color mapping
+blocks/vault_bottom_ominous_mers.tga - inconsistent color mapping
+blocks/vault_bottom_ominous_mers.tga - inconsistent color mapping
+blocks/vault_front_ejecting_mers.tga - inconsistent color mapping
+blocks/vault_front_ejecting_ominous_mers.tga - inconsistent color mapping
+blocks/vault_front_ejecting_ominous_mers.tga - inconsistent color mapping
+blocks/vault_front_off_mers.tga - inconsistent color mapping
+blocks/vault_front_off_ominous_mers.tga - inconsistent color mapping
+blocks/vault_front_off_ominous_mers.tga - inconsistent color mapping
+blocks/vault_front_on_mers.tga - inconsistent color mapping
+blocks/vault_front_on_ominous_mers.tga - inconsistent color mapping
+blocks/vault_front_on_ominous_mers.tga - inconsistent color mapping
+blocks/vault_side_off_mers.tga - inconsistent color mapping
+blocks/vault_side_off_ominous_mers.tga - inconsistent color mapping
+blocks/vault_side_off_ominous_mers.tga - inconsistent color mapping
+blocks/vault_side_on_mers.tga - inconsistent color mapping
+blocks/vault_side_on_ominous_mers.tga - inconsistent color mapping
+blocks/vault_side_on_ominous_mers.tga - inconsistent color mapping
+blocks/vault_top_ejecting_mers.tga - inconsistent color mapping
+blocks/vault_top_ejecting_ominous_mers.tga - inconsistent color mapping
+blocks/vault_top_mers.tga - inconsistent color mapping
+blocks/vault_top_ominous_mers.tga - inconsistent color mapping
+blocks/vault_top_ejecting_mers.tga - inconsistent color mapping
+blocks/vault_top_ejecting_ominous_mers.tga - inconsistent color mapping
+blocks/vault_top_ejecting_ominous_mers.tga - inconsistent color mapping
+blocks/vault_top_ominous_mers.tga - inconsistent color mapping
+blocks/warped_fungus_mers.tga - inconsistent color mapping
+blocks/warped_roots_mers.tga - inconsistent color mapping
+blocks/warped_roots_pot_mers.tga - inconsistent color mapping
+blocks/warped_roots_pot_mers.tga - inconsistent color mapping
+blocks/waterlily_mers.tga - inconsistent color mapping
+blocks/water_flow - missing 32x PNG
+blocks/water_flow_grey - 32x PNG has unknown colors
+blocks/water_placeholder - missing 32x PNG
+blocks/water_still - missing 32x PNG
+blocks/water_still_grey - 32x PNG has unknown colors
+blocks/weathered_chiseled_copper_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_lit_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_powered_mers.tga - inconsistent color mapping
+blocks/weathered_copper_door_bottom_mers.tga - inconsistent color mapping
+blocks/weathered_copper_door_top_mers.tga - inconsistent color mapping
+blocks/weathered_copper_grate_mers.tga - inconsistent color mapping
+blocks/weathered_copper_trapdoor_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_lit_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_powered_mers.tga - inconsistent color mapping
+blocks/weathered_copper_bulb_lit - 32x PNG has unknown colors
+blocks/weathered_copper_bulb_lit_powered - 32x PNG has unknown colors
+blocks/weathered_copper_bulb_powered_mers.tga - inconsistent color mapping
+blocks/web - 32x PNG has unknown colors
+blocks/weeping_vines - 32x PNG has unknown colors
+blocks/weeping_vines_base - 32x PNG has unknown colors
+blocks/weeping_vines_bottom - 32x PNG has unknown colors
+blocks/weeping_vines_plant - 32x PNG has unknown colors
+blocks/wheat_stage_0 - 32x PNG has unknown colors
+blocks/wheat_stage_1 - 32x PNG has unknown colors
+blocks/wheat_stage_2 - 32x PNG has unknown colors
+blocks/wheat_stage_3 - 32x PNG has unknown colors
+blocks/wheat_stage_4 - 32x PNG has unknown colors
+blocks/wheat_stage_5 - 32x PNG has unknown colors
+blocks/wheat_stage_6 - 32x PNG has unknown colors
+blocks/wheat_stage_7 - 32x PNG has unknown colors
+blocks/wildflowers_mers.tga - inconsistent color mapping
+blocks/wildflowers_stem_mers.tga - inconsistent color mapping
+blocks/wildflowers_stem_mers.tga - inconsistent color mapping
+blocks/wool_colored_black - 32x PNG has unknown colors
+blocks/wool_colored_blue - 32x PNG has unknown colors
+blocks/wool_colored_brown - 32x PNG has unknown colors
+blocks/wool_colored_cyan - 32x PNG has unknown colors
+blocks/wool_colored_gray - 32x PNG has unknown colors
+blocks/wool_colored_green - 32x PNG has unknown colors
+blocks/wool_colored_light_blue - 32x PNG has unknown colors
+blocks/wool_colored_lime - 32x PNG has unknown colors
+blocks/wool_colored_magenta - 32x PNG has unknown colors
+blocks/wool_colored_orange - 32x PNG has unknown colors
+blocks/wool_colored_pink - 32x PNG has unknown colors
+blocks/wool_colored_purple - 32x PNG has unknown colors
+blocks/wool_colored_red - 32x PNG has unknown colors
+blocks/wool_colored_silver - 32x PNG has unknown colors
+blocks/wool_colored_white - 32x PNG has unknown colors
+blocks/wool_colored_yellow - 32x PNG has unknown colors
+blocks\candles/black_candle - 32x PNG has unknown colors
+blocks\candles/black_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/blue_candle - 32x PNG has unknown colors
+blocks\candles/blue_candle_lit - 32x PNG has unknown colors
+blocks\candles/brown_candle - 32x PNG has unknown colors
+blocks\candles/brown_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/candle_mers.tga - inconsistent color mapping
+blocks\candles/candle_lit - 32x PNG has unknown colors
+blocks\candles/cyan_candle - 32x PNG has unknown colors
+blocks\candles/cyan_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/gray_candle - 32x PNG has unknown colors
+blocks\candles/gray_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/green_candle - 32x PNG has unknown colors
+blocks\candles/green_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/light_blue_candle - 32x PNG has unknown colors
+blocks\candles/light_blue_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/light_gray_candle - 32x PNG has unknown colors
+blocks\candles/light_gray_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/lime_candle - 32x PNG has unknown colors
+blocks\candles/lime_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/magenta_candle - 32x PNG has unknown colors
+blocks\candles/magenta_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/orange_candle - 32x PNG has unknown colors
+blocks\candles/orange_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/pink_candle - 32x PNG has unknown colors
+blocks\candles/pink_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/purple_candle - 32x PNG has unknown colors
+blocks\candles/purple_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/red_candle - 32x PNG has unknown colors
+blocks\candles/red_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/white_candle - 32x PNG has unknown colors
+blocks\candles/white_candle_lit_mers.tga - inconsistent color mapping
+blocks\candles/yellow_candle - 32x PNG has unknown colors
+blocks\candles/yellow_candle_lit - 32x PNG has unknown colors
+blocks\deepslate/deepslate_bricks_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_coal_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_copper_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_diamond_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_emerald_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_gold_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_iron_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_lapis_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_redstone_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_tiles_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_top_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_coal_ore - 32x PNG has unknown colors
+blocks\deepslate/deepslate_copper_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_diamond_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_emerald_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_gold_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_iron_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_lapis_ore_mers.tga - inconsistent color mapping
+blocks\deepslate/deepslate_redstone_ore_mers.tga - inconsistent color mapping
+blocks\huge_fungus/crimson_door_lower - 32x PNG has unknown colors
+blocks\huge_fungus/crimson_door_top - 32x PNG has unknown colors
+blocks\huge_fungus/crimson_log_side_mers.tga - inconsistent color mapping
+blocks\huge_fungus/crimson_log_top - 32x PNG has unknown colors
+blocks\huge_fungus/crimson_trapdoor - 32x PNG has unknown colors
+blocks\huge_fungus/stripped_crimson_stem_top - 32x PNG has unknown colors
+blocks\huge_fungus/warped_door_lower - 32x PNG has unknown colors
+blocks\huge_fungus/warped_door_top - 32x PNG has unknown colors
+blocks\huge_fungus/warped_stem_side_mers.tga - inconsistent color mapping
+blocks\huge_fungus/warped_stem_top - 32x PNG has unknown colors
+blocks\huge_fungus/warped_trapdoor - 32x PNG has unknown colors
+colormap/birch - missing 32x PNG
+colormap/dry_foliage - missing 32x PNG
+colormap/evergreen - missing 32x PNG
+colormap/foliage - missing 32x PNG
+colormap/grass - missing 32x PNG
+colormap/mangrove_swamp_foliage - missing 32x PNG
+colormap/swamp_foliage - missing 32x PNG
+colormap/swamp_grass - missing 32x PNG
+entity/acacia_hanging_sign - 32x PNG has unknown colors
+entity/agent - missing 32x PNG
+entity/alex - 32x PNG has unknown colors
+entity/armadillo_mers.tga - inconsistent color mapping
+entity/armor_stand - 32x PNG has unknown colors
+entity/arrows - 32x PNG has unknown colors
+entity/bamboo_hanging_sign_mers.tga - inconsistent color mapping
+entity/bamboo_sign_mers.tga - inconsistent color mapping
+entity/bat_v2_mers.tga - mismatched size
+entity/bat_v2_mers.tga - inconsistent color mapping
+entity/beacon_beam_mers.tga - inconsistent color mapping
+entity/birch_hanging_sign - 32x PNG has unknown colors
+entity/cape_invisible - missing 32x PNG
+entity/char - missing 32x PNG
+entity/cherry_hanging_sign_mers.tga - inconsistent color mapping
+entity/cherry_sign - 32x PNG has unknown colors
+entity/chicken - missing 32x PNG
+entity/crimson_hanging_sign - 32x PNG has unknown colors
+entity/dark_oak_hanging_sign - 32x PNG has unknown colors
+entity/dolphin - 32x PNG has unknown colors
+entity/dummy - 32x PNG has unknown colors
+entity/enchanting_table_book - 32x PNG has unknown colors
+entity/enchanting_table_book_shadow - missing 32x PNG
+entity/endermite - 32x PNG has unknown colors
+entity/end_portal - missing 32x PNG
+entity/experience_orb - 32x PNG has unknown colors
+entity/fireworks_mers.tga - inconsistent color mapping
+entity/fishhook - 32x PNG has unknown colors
+entity/guardian_beam_mers.tga - mismatched size
+entity/guardian_elder_mers.tga - inconsistent color mapping
+entity/guardian_mers.tga - inconsistent color mapping
+entity/guardian_elder_mers.tga - inconsistent color mapping
+entity/jungle_hanging_sign - 32x PNG has unknown colors
+entity/lead_knot_mers.tga - inconsistent color mapping
+entity/lead_rope - missing 32x PNG
+entity/loyalty_rope - missing 32x PNG
+entity/mangrove_hanging_sign_mers.tga - inconsistent color mapping
+entity/minecart_mers.tga - mismatched size
+entity/oak_hanging_sign - 32x PNG has unknown colors
+entity/pale_oak_hanging_sign - 32x PNG has unknown colors
+entity/pale_oak_sign_mers.tga - inconsistent color mapping
+entity/pillager_mers.tga - inconsistent color mapping
+entity/polarbear - 32x PNG has unknown colors
+entity/saddle_mers.tga - inconsistent color mapping
+entity/saddle_v2_mers.tga - mismatched size
+entity/saddle_v2_mers.tga - inconsistent color mapping
+entity/sea_turtle_mers.tga - inconsistent color mapping
+entity/shield - 32x PNG has unknown colors
+entity/sign - 32x PNG has unknown colors
+entity/sign_acacia - 32x PNG has unknown colors
+entity/sign_crimson_mers.tga - inconsistent color mapping
+entity/sign_darkoak - 32x PNG has unknown colors
+entity/sign_jungle - 32x PNG has unknown colors
+entity/sign_spruce - 32x PNG has unknown colors
+entity/silverfish_mers.tga - inconsistent color mapping
+entity/snow_golem - 32x PNG has unknown colors
+entity/spruce_hanging_sign - 32x PNG has unknown colors
+entity/squid_mers.tga - inconsistent color mapping
+entity/steve - 32x PNG has unknown colors
+entity/trident - 32x PNG has unknown colors
+entity/trident_riptide - 32x PNG has unknown colors
+entity/vindicator_mers.tga - inconsistent color mapping
+entity/wandering_trader - 32x PNG has unknown colors
+entity/warped_hanging_sign - 32x PNG has unknown colors
+entity/witch - 32x PNG has unknown colors
+entity\allay/allay - 32x PNG has unknown colors
+entity\axolotl/axolotl_blue_mers.tga - inconsistent color mapping
+entity\axolotl/axolotl_cyan_mers.tga - inconsistent color mapping
+entity\axolotl/axolotl_gold_mers.tga - inconsistent color mapping
+entity\axolotl/axolotl_lucy_mers.tga - inconsistent color mapping
+entity\axolotl/axolotl_wild_mers.tga - inconsistent color mapping
+entity\banner/banner_flower.tga - inconsistent color mapping
+entity\banner/banner_flower_mers.tga - inconsistent color mapping
+entity\banner/banner_skull - 32x PNG has unknown colors
+entity\bed/black - 32x PNG has unknown colors
+entity\bed/blue - 32x PNG has unknown colors
+entity\bed/brown - 32x PNG has unknown colors
+entity\bed/cyan - 32x PNG has unknown colors
+entity\bed/gray - 32x PNG has unknown colors
+entity\bed/green - 32x PNG has unknown colors
+entity\bed/light_blue - 32x PNG has unknown colors
+entity\bed/lime - 32x PNG has unknown colors
+entity\bed/magenta - 32x PNG has unknown colors
+entity\bed/orange - 32x PNG has unknown colors
+entity\bed/pink - 32x PNG has unknown colors
+entity\bed/purple - 32x PNG has unknown colors
+entity\bed/red_mers.tga - inconsistent color mapping
+entity\bed/silver - 32x PNG has unknown colors
+entity\bed/white - 32x PNG has unknown colors
+entity\bed/yellow_mers.tga - inconsistent color mapping
+entity\bee/bee - 32x PNG has unknown colors
+entity\bee/bee_angry - 32x PNG has unknown colors
+entity\bee/bee_angry_nectar - 32x PNG has unknown colors
+entity\bee/bee_nectar - 32x PNG has unknown colors
+entity\bell/bell - 32x PNG has unknown colors
+entity\boat/boat_acacia - 32x PNG has unknown colors
+entity\boat/boat_jungle_mers.tga - inconsistent color mapping
+entity\boat/chest_boat_acacia - 32x PNG has unknown colors
+entity\boat/chest_boat_bamboo - 32x PNG has unknown colors
+entity\boat/chest_boat_birch - 32x PNG has unknown colors
+entity\boat/chest_boat_cherry - 32x PNG has unknown colors
+entity\boat/chest_boat_darkoak - 32x PNG has unknown colors
+entity\boat/chest_boat_jungle - 32x PNG has unknown colors
+entity\boat/chest_boat_mangrove - 32x PNG has unknown colors
+entity\boat/chest_boat_oak - 32x PNG has unknown colors
+entity\boat/chest_boat_pale_oak - 32x PNG has unknown colors
+entity\boat/chest_boat_spruce - 32x PNG has unknown colors
+entity\boat/mangrove_boat - 32x PNG has unknown colors
+entity\boat/pale_oak_boat_mers.tga - inconsistent color mapping
+entity\breeze/breeze_eyes_mers.tga - inconsistent color mapping
+entity\breeze/breeze_mers.tga - inconsistent color mapping
+entity\breeze/breeze_wind_mers.tga - mismatched size
+entity\breeze/breeze_eyes_mers.tga - inconsistent color mapping
+entity\camel/camel_mers.tga - inconsistent color mapping
+entity\cat/allblackcat_mers.tga - inconsistent color mapping
+entity\cat/allblackcat_tame.tga - inconsistent color mapping
+entity\cat/allblackcat_tame_mers.tga - inconsistent color mapping
+entity\cat/blackcat_mers.tga - inconsistent color mapping
+entity\cat/britishshorthair_mers.tga - inconsistent color mapping
+entity\cat/britishshorthair_tame.tga - inconsistent color mapping
+entity\cat/britishshorthair_tame_mers.tga - inconsistent color mapping
+entity\cat/calico - 32x PNG has unknown colors
+entity\cat/jellie_mers.tga - inconsistent color mapping
+entity\cat/jellie_tame.tga - inconsistent color mapping
+entity\cat/jellie_tame_mers.tga - inconsistent color mapping
+entity\cat/ocelot - 32x PNG has unknown colors
+entity\cat/persian_mers.tga - inconsistent color mapping
+entity\cat/persian_tame.tga - inconsistent color mapping
+entity\cat/persian_tame_mers.tga - inconsistent color mapping
+entity\cat/ragdoll_mers.tga - inconsistent color mapping
+entity\cat/ragdoll_tame.tga - inconsistent color mapping
+entity\cat/ragdoll_tame_mers.tga - inconsistent color mapping
+entity\cat/redtabby_mers.tga - inconsistent color mapping
+entity\cat/redtabby_tame.tga - inconsistent color mapping
+entity\cat/redtabby_tame_mers.tga - inconsistent color mapping
+entity\cat/red_mers.tga - inconsistent color mapping
+entity\cat/redtabby_mers.tga - inconsistent color mapping
+entity\cat/redtabby_tame.tga - inconsistent color mapping
+entity\cat/redtabby_tame_mers.tga - inconsistent color mapping
+entity\cat/siamese - 32x PNG has unknown colors
+entity\cat/siamesecat_mers.tga - inconsistent color mapping
+entity\cat/siamesecat_tame.tga - inconsistent color mapping
+entity\cat/siamesecat_tame_mers.tga - inconsistent color mapping
+entity\cat/tabby_mers.tga - inconsistent color mapping
+entity\cat/tabby_tame.tga - inconsistent color mapping
+entity\cat/tabby_tame_mers.tga - inconsistent color mapping
+entity\cat/tuxedo_mers.tga - inconsistent color mapping
+entity\cat/tuxedo_tame.tga - inconsistent color mapping
+entity\cat/tuxedo_tame_mers.tga - inconsistent color mapping
+entity\cat/white_mers.tga - inconsistent color mapping
+entity\cat/white_tame.tga - inconsistent color mapping
+entity\cat/white_tame_mers.tga - inconsistent color mapping
+entity\chest/double_normal - 32x PNG has unknown colors
+entity\chest/ender_mers.tga - inconsistent color mapping
+entity\chest/normal - 32x PNG has unknown colors
+entity\chest/trapped - 32x PNG has unknown colors
+entity\chest/trapped_double - 32x PNG has unknown colors
+entity\chicken/chicken_cold_mers.tga - inconsistent color mapping
+entity\chicken/chicken_mers.tga - inconsistent color mapping
+entity\chicken/chicken_warm_mers.tga - inconsistent color mapping
+entity\chicken/chicken_cold_mers.tga - inconsistent color mapping
+entity\chicken/chicken_warm_mers.tga - inconsistent color mapping
+entity\cow/brown_mooshroom - 32x PNG has unknown colors
+entity\cow/brown_mooshroom_v2 - 32x PNG has unknown colors
+entity\cow/cow - 32x PNG has unknown colors
+entity\cow/cow_cold_mers.tga - inconsistent color mapping
+entity\cow/cow_v2_mers.tga - inconsistent color mapping
+entity\cow/cow_warm_mers.tga - inconsistent color mapping
+entity\cow/mooshroom - 32x PNG has unknown colors
+entity\cow/mooshroom_v2 - 32x PNG has unknown colors
+entity\creaking/creaking_mers.tga - inconsistent color mapping
+entity\creaking/creaking_eyes - missing 32x PNG
+entity\creeper/creeper - 32x PNG has unknown colors
+entity\creeper/creeper_armor - 32x PNG has unknown colors
+entity\dragon/dragon_exploding - 32x PNG has unknown colors
+entity\endercrystal/endercrystal - 32x PNG has unknown colors
+entity\fish/clownfish - 32x PNG has unknown colors
+entity\fish/cod_mers.tga - inconsistent color mapping
+entity\fish/fish_mers.tga - inconsistent color mapping
+entity\fish/pufferfish - 32x PNG has unknown colors
+entity\fish/salmon - 32x PNG has unknown colors
+entity\fish/tropical_a - 32x PNG has unknown colors
+entity\fish/tropical_a_pattern_1 - 32x PNG has unknown colors
+entity\fish/tropical_a_pattern_4 - 32x PNG has unknown colors
+entity\fish/tropical_a_pattern_6 - 32x PNG has unknown colors
+entity\fish/tropical_b - 32x PNG has unknown colors
+entity\fish/tropical_b_pattern_1 - 32x PNG has unknown colors
+entity\fish/tropical_b_pattern_3 - 32x PNG has unknown colors
+entity\fish/tropical_b_pattern_6 - 32x PNG has unknown colors
+entity\fox/arctic_fox_mers.tga - inconsistent color mapping
+entity\fox/fox_mers.tga - inconsistent color mapping
+entity\frog/cold_frog - 32x PNG has unknown colors
+entity\frog/temperate_frog - 32x PNG has unknown colors
+entity\frog/warm_frog_mers.tga - mismatched size
+entity\ghast/ghast_mers.tga - inconsistent color mapping
+entity\ghast/ghast_shooting.tga - mismatched size
+entity\ghast/ghast_shooting_mers.tga - inconsistent color mapping
+entity\ghast/ghast_shooting - missing 32x PNG
+entity\goat/goat_mers.tga - inconsistent color mapping
+entity\happy_ghast/ghastling - 32x PNG has unknown colors
+entity\happy_ghast/happy_ghast_mers.tga - inconsistent color mapping
+entity\happy_ghast/happy_ghast_ropes - missing 32x PNG
+entity\harness/harness_black_mers.tga - inconsistent color mapping
+entity\harness/harness_blue - 32x PNG has unknown colors
+entity\harness/harness_brown - 32x PNG has unknown colors
+entity\harness/harness_cyan - 32x PNG has unknown colors
+entity\harness/harness_gray - 32x PNG has unknown colors
+entity\harness/harness_green - 32x PNG has unknown colors
+entity\harness/harness_light_blue - 32x PNG has unknown colors
+entity\harness/harness_light_gray - 32x PNG has unknown colors
+entity\harness/harness_lime - 32x PNG has unknown colors
+entity\harness/harness_magenta - 32x PNG has unknown colors
+entity\harness/harness_orange - 32x PNG has unknown colors
+entity\harness/harness_pink - 32x PNG has unknown colors
+entity\harness/harness_purple_mers.tga - inconsistent color mapping
+entity\harness/harness_red_mers.tga - inconsistent color mapping
+entity\harness/harness_white - 32x PNG has unknown colors
+entity\harness/harness_yellow - 32x PNG has unknown colors
+entity\hoglin/hoglin - 32x PNG has unknown colors
+entity\horse/donkey - 32x PNG has unknown colors
+entity\horse/horse_black - 32x PNG has unknown colors
+entity\horse/horse_brown - 32x PNG has unknown colors
+entity\horse/horse_chestnut - 32x PNG has unknown colors
+entity\horse/horse_creamy - 32x PNG has unknown colors
+entity\horse/horse_darkbrown - 32x PNG has unknown colors
+entity\horse/horse_gray - 32x PNG has unknown colors
+entity\horse/horse_markings_blackdots - 32x PNG has unknown colors
+entity\horse/horse_markings_none - missing 32x PNG
+entity\horse/horse_markings_white - 32x PNG has unknown colors
+entity\horse/horse_markings_whitedots - 32x PNG has unknown colors
+entity\horse/horse_markings_whitefield - 32x PNG has unknown colors
+entity\horse/horse_skeleton - 32x PNG has unknown colors
+entity\horse/horse_white - 32x PNG has unknown colors
+entity\horse/horse_zombie - 32x PNG has unknown colors
+entity\horse/mule - 32x PNG has unknown colors
+entity\horse\armor/horse_armor_diamond - 32x PNG has unknown colors
+entity\horse\armor/horse_armor_gold - 32x PNG has unknown colors
+entity\horse\armor/horse_armor_iron - 32x PNG has unknown colors
+entity\horse\armor/horse_armor_none - missing 32x PNG
+entity\horse2/donkey_mers.tga - inconsistent color mapping
+entity\horse2/horse_black_mers.tga - inconsistent color mapping
+entity\horse2/horse_brown_mers.tga - inconsistent color mapping
+entity\horse2/horse_chestnut_mers.tga - inconsistent color mapping
+entity\horse2/horse_creamy_mers.tga - inconsistent color mapping
+entity\horse2/horse_darkbrown_mers.tga - inconsistent color mapping
+entity\horse2/horse_gray_mers.tga - inconsistent color mapping
+entity\horse2/horse_markings_blackdots - 32x PNG has unknown colors
+entity\horse2/horse_markings_none - missing 32x PNG
+entity\horse2/horse_markings_white - 32x PNG has unknown colors
+entity\horse2/horse_markings_whitedots - 32x PNG has unknown colors
+entity\horse2/horse_markings_whitefield - 32x PNG has unknown colors
+entity\horse2/horse_skeleton_mers.tga - inconsistent color mapping
+entity\horse2/horse_white - 32x PNG has unknown colors
+entity\horse2/horse_zombie_mers.tga - inconsistent color mapping
+entity\horse2/mule_mers.tga - inconsistent color mapping
+entity\horse2\armor/horse_armor_diamond_mers.tga - inconsistent color mapping
+entity\horse2\armor/horse_armor_gold_mers.tga - inconsistent color mapping
+entity\horse2\armor/horse_armor_iron - 32x PNG has unknown colors
+entity\horse2\armor/horse_armor_none - missing 32x PNG
+entity\illager/evoker - 32x PNG has unknown colors
+entity\illager/fangs - 32x PNG has unknown colors
+entity\illager/ravager_mers.tga - inconsistent color mapping
+entity\iron_golem/cracked_high - 32x PNG has unknown colors
+entity\iron_golem/cracked_low - 32x PNG has unknown colors
+entity\iron_golem/cracked_none - missing 32x PNG
+entity\iron_golem/iron_golem_mers.tga - inconsistent color mapping
+entity\llama/llama_brown_mers.tga - inconsistent color mapping
+entity\llama/llama_creamy_mers.tga - inconsistent color mapping
+entity\llama/llama_gray_mers.tga - inconsistent color mapping
+entity\llama/llama_mers.tga - inconsistent color mapping
+entity\llama/llama_white_mers.tga - inconsistent color mapping
+entity\llama/llama_brown - 32x PNG has unknown colors
+entity\llama/llama_creamy_mers.tga - inconsistent color mapping
+entity\llama/llama_gray_mers.tga - inconsistent color mapping
+entity\llama/llama_white - 32x PNG has unknown colors
+entity\llama/spit - missing 32x PNG
+entity\llama\decor/decor_black - 32x PNG has unknown colors
+entity\llama\decor/decor_blue - 32x PNG has unknown colors
+entity\llama\decor/decor_brown - 32x PNG has unknown colors
+entity\llama\decor/decor_cyan - 32x PNG has unknown colors
+entity\llama\decor/decor_gray - 32x PNG has unknown colors
+entity\llama\decor/decor_green_mers.tga - inconsistent color mapping
+entity\llama\decor/decor_light_blue - 32x PNG has unknown colors
+entity\llama\decor/decor_lime - 32x PNG has unknown colors
+entity\llama\decor/decor_magenta - 32x PNG has unknown colors
+entity\llama\decor/decor_none - missing 32x PNG
+entity\llama\decor/decor_orange - 32x PNG has unknown colors
+entity\llama\decor/decor_pink - 32x PNG has unknown colors
+entity\llama\decor/decor_purple - 32x PNG has unknown colors
+entity\llama\decor/decor_red - 32x PNG has unknown colors
+entity\llama\decor/decor_silver - 32x PNG has unknown colors
+entity\llama\decor/decor_white_mers.tga - inconsistent color mapping
+entity\llama\decor/decor_yellow_mers.tga - inconsistent color mapping
+entity\llama\decor/trader_llama_decor_mers.tga - inconsistent color mapping
+entity\npc/npc_10_mers.tga - inconsistent color mapping
+entity\npc/npc_10 - 32x PNG has unknown colors
+entity\npc/npc_2 - 32x PNG has unknown colors
+entity\npc/npc_3 - 32x PNG has unknown colors
+entity\npc/npc_4 - 32x PNG has unknown colors
+entity\npc/npc_5 - 32x PNG has unknown colors
+entity\npc/npc_6 - 32x PNG has unknown colors
+entity\npc/npc_7 - 32x PNG has unknown colors
+entity\npc/npc_8 - 32x PNG has unknown colors
+entity\npc/npc_9 - 32x PNG has unknown colors
+entity\npc/npc_Agriculture_1 - missing 32x PNG
+entity\npc/npc_Agriculture_10 - missing 32x PNG
+entity\npc/npc_Agriculture_2 - missing 32x PNG
+entity\npc/npc_Agriculture_3 - missing 32x PNG
+entity\npc/npc_Agriculture_4 - missing 32x PNG
+entity\npc/npc_Agriculture_5 - missing 32x PNG
+entity\npc/npc_Agriculture_6 - missing 32x PNG
+entity\npc/npc_Agriculture_7 - missing 32x PNG
+entity\npc/npc_Agriculture_8 - missing 32x PNG
+entity\npc/npc_Agriculture_9 - missing 32x PNG
+entity\npc/npc_apiary_1 - missing 32x PNG
+entity\npc/npc_apiary_2 - missing 32x PNG
+entity\npc/npc_apiary_3 - missing 32x PNG
+entity\npc/npc_apiary_4 - missing 32x PNG
+entity\npc/npc_apiary_5 - 32x PNG has unknown colors
+entity\npc/npc_BusinessMobs_1 - missing 32x PNG
+entity\npc/npc_BusinessMobs_2 - missing 32x PNG
+entity\npc/npc_BusinessMobs_3 - missing 32x PNG
+entity\npc/npc_BusinessMobs_4 - missing 32x PNG
+entity\npc/npc_BusinessMobs_5 - missing 32x PNG
+entity\npc/npc_construction_1 - 32x PNG has unknown colors
+entity\npc/npc_construction_3 - missing 32x PNG
+entity\npc/npc_construction_4 - 32x PNG has unknown colors
+entity\npc/npc_construction_5 - missing 32x PNG
+entity\npc/npc_EverydayBusiness_1 - missing 32x PNG
+entity\npc/npc_EverydayBusiness_2 - missing 32x PNG
+entity\npc/npc_EverydayBusiness_3 - missing 32x PNG
+entity\npc/npc_EverydayBusiness_4 - missing 32x PNG
+entity\npc/npc_EverydayBusiness_5 - missing 32x PNG
+entity\npc/npc_Kiosk_1 - missing 32x PNG
+entity\npc/npc_Kiosk_2 - missing 32x PNG
+entity\npc/npc_Kiosk_3 - missing 32x PNG
+entity\npc/npc_Kiosk_4 - missing 32x PNG
+entity\npc/npc_Kiosk_5 - missing 32x PNG
+entity\npc/npc_scientist_1 - 32x PNG has unknown colors
+entity\npc/npc_scientist_10 - 32x PNG has unknown colors
+entity\npc/npc_scientist_2 - missing 32x PNG
+entity\npc/npc_scientist_3 - missing 32x PNG
+entity\npc/npc_scientist_4 - missing 32x PNG
+entity\npc/npc_scientist_5 - missing 32x PNG
+entity\npc/npc_scientist_6 - missing 32x PNG
+entity\npc/npc_scientist_7 - missing 32x PNG
+entity\npc/npc_scientist_8 - missing 32x PNG
+entity\npc/npc_scientist_9 - 32x PNG has unknown colors
+entity\npc/npc_teacher_1 - missing 32x PNG
+entity\npc/npc_teacher_2 - missing 32x PNG
+entity\npc/npc_teacher_3 - missing 32x PNG
+entity\npc/npc_teacher_4 - missing 32x PNG
+entity\npc/npc_teacher_5 - missing 32x PNG
+entity\panda/panda_aggressive_mers.tga - inconsistent color mapping
+entity\panda/panda_brown_mers.tga - inconsistent color mapping
+entity\panda/panda_lazy_mers.tga - inconsistent color mapping
+entity\panda/panda_mers.tga - inconsistent color mapping
+entity\panda/panda_playful_mers.tga - inconsistent color mapping
+entity\panda/panda_sneezy_mers.tga - inconsistent color mapping
+entity\panda/panda_worried_mers.tga - inconsistent color mapping
+entity\panda/panda_aggressive_mers.tga - inconsistent color mapping
+entity\panda/panda_brown - 32x PNG has unknown colors
+entity\panda/panda_lazy_mers.tga - inconsistent color mapping
+entity\panda/panda_playful_mers.tga - inconsistent color mapping
+entity\panda/panda_sneezy_mers.tga - inconsistent color mapping
+entity\panda/panda_worried_mers.tga - inconsistent color mapping
+entity\parrot/parrot_blue_mers.tga - inconsistent color mapping
+entity\parrot/parrot_green_mers.tga - inconsistent color mapping
+entity\parrot/parrot_grey - 32x PNG has unknown colors
+entity\parrot/parrot_red_blue - 32x PNG has unknown colors
+entity\parrot/parrot_yellow_blue - 32x PNG has unknown colors
+entity\pig/pigzombie_mers.tga - inconsistent color mapping
+entity\pig/pig_cold_mers.tga - mismatched size
+entity\pig/pig_mers.tga - inconsistent color mapping
+entity\pig/pig_saddle_mers.tga - inconsistent color mapping
+entity\pig/pig_v3_mers.tga - mismatched size
+entity\pig/pig_warm_mers.tga - mismatched size
+entity\pig/pigzombie - 32x PNG has unknown colors
+entity\pig/pig_cold_mers.tga - inconsistent color mapping
+entity\pig/pig_saddle_mers.tga - inconsistent color mapping
+entity\pig/pig_v3_mers.tga - inconsistent color mapping
+entity\pig/pig_warm_mers.tga - inconsistent color mapping
+entity\piglin/piglin - 32x PNG has unknown colors
+entity\piglin/piglin_brute - 32x PNG has unknown colors
+entity\piglin/zombie_piglin - 32x PNG has unknown colors
+entity\pistonarm/pistonArm - 32x PNG has unknown colors
+entity\pistonarm/pistonArmSticky - 32x PNG has unknown colors
+entity\rabbit/blackrabbit - 32x PNG has unknown colors
+entity\rabbit/brown_mers.tga - inconsistent color mapping
+entity\rabbit/gold - 32x PNG has unknown colors
+entity\rabbit/salt - 32x PNG has unknown colors
+entity\rabbit/toast - 32x PNG has unknown colors
+entity\rabbit/white - 32x PNG has unknown colors
+entity\rabbit/white_splotched - 32x PNG has unknown colors
+entity\shield_patterns/base - 32x PNG has unknown colors
+entity\shield_patterns/border - 32x PNG has unknown colors
+entity\shield_patterns/bricks - 32x PNG has unknown colors
+entity\shield_patterns/circle - 32x PNG has unknown colors
+entity\shield_patterns/creeper - 32x PNG has unknown colors
+entity\shield_patterns/cross - 32x PNG has unknown colors
+entity\shield_patterns/curly_border - 32x PNG has unknown colors
+entity\shield_patterns/diagonal_left - 32x PNG has unknown colors
+entity\shield_patterns/diagonal_right - 32x PNG has unknown colors
+entity\shield_patterns/diagonal_up_left - 32x PNG has unknown colors
+entity\shield_patterns/diagonal_up_right - 32x PNG has unknown colors
+entity\shield_patterns/flower_mers.tga - inconsistent color mapping
+entity\shield_patterns/flower - 32x PNG has unknown colors
+entity\shield_patterns/globe - 32x PNG has unknown colors
+entity\shield_patterns/gradient - 32x PNG has unknown colors
+entity\shield_patterns/gradient_up - 32x PNG has unknown colors
+entity\shield_patterns/half_horizontal - 32x PNG has unknown colors
+entity\shield_patterns/half_horizontal_bottom - 32x PNG has unknown colors
+entity\shield_patterns/half_vertical - 32x PNG has unknown colors
+entity\shield_patterns/half_vertical_right - 32x PNG has unknown colors
+entity\shield_patterns/illager - 32x PNG has unknown colors
+entity\shield_patterns/mojang - 32x PNG has unknown colors
+entity\shield_patterns/piglin - 32x PNG has unknown colors
+entity\shield_patterns/rhombus - 32x PNG has unknown colors
+entity\shield_patterns/skull - 32x PNG has unknown colors
+entity\shield_patterns/small_stripes - 32x PNG has unknown colors
+entity\shield_patterns/square_bottom_left - 32x PNG has unknown colors
+entity\shield_patterns/square_bottom_right - 32x PNG has unknown colors
+entity\shield_patterns/square_top_left - 32x PNG has unknown colors
+entity\shield_patterns/square_top_right - 32x PNG has unknown colors
+entity\shield_patterns/straight_cross - 32x PNG has unknown colors
+entity\shield_patterns/stripe_bottom - 32x PNG has unknown colors
+entity\shield_patterns/stripe_center - 32x PNG has unknown colors
+entity\shield_patterns/stripe_downleft - 32x PNG has unknown colors
+entity\shield_patterns/stripe_downright - 32x PNG has unknown colors
+entity\shield_patterns/stripe_left - 32x PNG has unknown colors
+entity\shield_patterns/stripe_middle - 32x PNG has unknown colors
+entity\shield_patterns/stripe_right - 32x PNG has unknown colors
+entity\shield_patterns/stripe_top - 32x PNG has unknown colors
+entity\shield_patterns/triangles_bottom - 32x PNG has unknown colors
+entity\shield_patterns/triangles_top - 32x PNG has unknown colors
+entity\shield_patterns/triangle_bottom - 32x PNG has unknown colors
+entity\shield_patterns/triangle_top - 32x PNG has unknown colors
+entity\shulker/shulker_black_mers.tga - inconsistent color mapping
+entity\shulker/shulker_blue - 32x PNG has unknown colors
+entity\shulker/shulker_brown_mers.tga - inconsistent color mapping
+entity\shulker/shulker_cyan - 32x PNG has unknown colors
+entity\shulker/shulker_gray - 32x PNG has unknown colors
+entity\shulker/shulker_green_mers.tga - inconsistent color mapping
+entity\shulker/shulker_light_blue - 32x PNG has unknown colors
+entity\shulker/shulker_lime - 32x PNG has unknown colors
+entity\shulker/shulker_magenta - 32x PNG has unknown colors
+entity\shulker/shulker_orange - 32x PNG has unknown colors
+entity\shulker/shulker_pink - 32x PNG has unknown colors
+entity\shulker/shulker_purple_mers.tga - inconsistent color mapping
+entity\shulker/shulker_red - 32x PNG has unknown colors
+entity\shulker/shulker_silver - 32x PNG has unknown colors
+entity\shulker/shulker_undyed_mers.tga - inconsistent color mapping
+entity\shulker/shulker_white - 32x PNG has unknown colors
+entity\shulker/shulker_yellow - 32x PNG has unknown colors
+entity\skeleton/bogged_clothes_mers.tga - inconsistent color mapping
+entity\skeleton/bogged_mers.tga - inconsistent color mapping
+entity\skeleton/bogged_clothes_mers.tga - inconsistent color mapping
+entity\skeleton/skeleton_mers.tga - inconsistent color mapping
+entity\skeleton/stray - 32x PNG has unknown colors
+entity\skeleton/stray_overlay - 32x PNG has unknown colors
+entity\skeleton/wither_skeleton_mers.tga - inconsistent color mapping
+entity\skulls/creeper - 32x PNG has unknown colors
+entity\skulls/zombie - 32x PNG has unknown colors
+entity\slime/slime - 32x PNG has unknown colors
+entity\sniffer/sniffer_mers.tga - inconsistent color mapping
+entity\strider/strider - 32x PNG has unknown colors
+entity\strider/strider_saddled - 32x PNG has unknown colors
+entity\strider/strider_suffocated - 32x PNG has unknown colors
+entity\strider/strider_suffocated_saddled - 32x PNG has unknown colors
+entity\tadpole/tadpole - 32x PNG has unknown colors
+entity\vex/vex - 32x PNG has unknown colors
+entity\vex/vex_charging - 32x PNG has unknown colors
+entity\villager/butcher - 32x PNG has unknown colors
+entity\villager/farmer - 32x PNG has unknown colors
+entity\villager/librarian - 32x PNG has unknown colors
+entity\villager/priest - 32x PNG has unknown colors
+entity\villager/smith - 32x PNG has unknown colors
+entity\villager/villager - 32x PNG has unknown colors
+entity\villager2/villager_mers.tga - inconsistent color mapping
+entity\villager2\biomes/biome_desert - 32x PNG has unknown colors
+entity\villager2\biomes/biome_jungle - 32x PNG has unknown colors
+entity\villager2\biomes/biome_plains - 32x PNG has unknown colors
+entity\villager2\biomes/biome_savanna - 32x PNG has unknown colors
+entity\villager2\biomes/biome_snow - 32x PNG has unknown colors
+entity\villager2\biomes/biome_swamp - 32x PNG has unknown colors
+entity\villager2\biomes/biome_taiga - 32x PNG has unknown colors
+entity\villager2\levels/level_diamond - 32x PNG has unknown colors
+entity\villager2\levels/level_emerald - 32x PNG has unknown colors
+entity\villager2\levels/level_gold - 32x PNG has unknown colors
+entity\villager2\levels/level_iron - 32x PNG has unknown colors
+entity\warden/warden - 32x PNG has unknown colors
+entity\warden/warden_ears - 32x PNG has unknown colors
+entity\warden/warden_heart - 32x PNG has unknown colors
+entity\warden/warden_pulsating_spots_2_mers.tga - inconsistent color mapping
+entity\warden/warden_tendrils - 32x PNG has unknown colors
+entity\wither_boss/wither_armor_blue_mers.tga - mismatched size
+entity\wither_boss/wither_armor_white_mers.tga - inconsistent color mapping
+entity\wither_boss/wither_invulnerable_mers.tga - inconsistent color mapping
+entity\wither_boss/wither_mers.tga - inconsistent color mapping
+entity\wither_boss/wither_armor_blue - 32x PNG has unknown colors
+entity\wither_boss/wither_armor_white - 32x PNG has unknown colors
+entity\wolf/wolf - 32x PNG has unknown colors
+entity\wolf/wolf_angry - 32x PNG has unknown colors
+entity\wolf/wolf_armor_cracked_high_mers.tga - inconsistent color mapping
+entity\wolf/wolf_armor_cracked_low_mers.tga - inconsistent color mapping
+entity\wolf/wolf_armor_cracked_medium_mers.tga - inconsistent color mapping
+entity\wolf/wolf_armor_cracked_none_mers.tga - mismatched size
+entity\wolf/wolf_armor_dyed.tga - inconsistent color mapping
+entity\wolf/wolf_armor_dyed_mers.tga - inconsistent color mapping
+entity\wolf/wolf_armor_mers.tga - inconsistent color mapping
+entity\wolf/wolf_armor_cracked_high_mers.tga - inconsistent color mapping
+entity\wolf/wolf_armor_cracked_low_mers.tga - inconsistent color mapping
+entity\wolf/wolf_armor_cracked_medium - 32x PNG has unknown colors
+entity\wolf/wolf_armor_cracked_none - missing 32x PNG
+entity\wolf/wolf_ashen_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_ashen_mers.tga - inconsistent color mapping
+entity\wolf/wolf_ashen_tame.tga - inconsistent color mapping
+entity\wolf/wolf_ashen_tame_mers.tga - inconsistent color mapping
+entity\wolf/wolf_ashen_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_black_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_black_mers.tga - inconsistent color mapping
+entity\wolf/wolf_black_tame.tga - inconsistent color mapping
+entity\wolf/wolf_black_tame_mers.tga - inconsistent color mapping
+entity\wolf/wolf_black_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_chestnut - 32x PNG has unknown colors
+entity\wolf/wolf_chestnut_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_rusty_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_rusty_mers.tga - inconsistent color mapping
+entity\wolf/wolf_rusty_tame.tga - inconsistent color mapping
+entity\wolf/wolf_rusty_tame_mers.tga - inconsistent color mapping
+entity\wolf/wolf_rusty_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_snowy_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_snowy_mers.tga - inconsistent color mapping
+entity\wolf/wolf_snowy_tame.tga - inconsistent color mapping
+entity\wolf/wolf_snowy_tame_mers.tga - inconsistent color mapping
+entity\wolf/wolf_snowy_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_spotted - 32x PNG has unknown colors
+entity\wolf/wolf_spotted_angry - 32x PNG has unknown colors
+entity\wolf/wolf_striped - 32x PNG has unknown colors
+entity\wolf/wolf_striped_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_woods_angry_mers.tga - inconsistent color mapping
+entity\wolf/wolf_woods_mers.tga - inconsistent color mapping
+entity\wolf/wolf_woods_tame.tga - inconsistent color mapping
+entity\wolf/wolf_woods_tame_mers.tga - inconsistent color mapping
+entity\wolf/wolf_woods_angry_mers.tga - inconsistent color mapping
+entity\zoglin/zoglin - 32x PNG has unknown colors
+entity\zombie/husk - 32x PNG has unknown colors
+entity\zombie/zombie - 32x PNG has unknown colors
+entity\zombie_villager/zombie_butcher - 32x PNG has unknown colors
+entity\zombie_villager/zombie_farmer - 32x PNG has unknown colors
+entity\zombie_villager/zombie_librarian - 32x PNG has unknown colors
+entity\zombie_villager/zombie_priest - 32x PNG has unknown colors
+entity\zombie_villager/zombie_smith - 32x PNG has unknown colors
+entity\zombie_villager/zombie_villager - 32x PNG has unknown colors
+entity\zombie_villager2/zombie-villager_mers.tga - inconsistent color mapping
+entity\zombie_villager2\biomes/biome-desert-zombie - 32x PNG has unknown colors
+entity\zombie_villager2\biomes/biome-jungle-zombie - 32x PNG has unknown colors
+entity\zombie_villager2\biomes/biome-plains-zombie - 32x PNG has unknown colors
+entity\zombie_villager2\biomes/biome-savanna-zombie - 32x PNG has unknown colors
+entity\zombie_villager2\biomes/biome-snow-zombie - 32x PNG has unknown colors
+entity\zombie_villager2\biomes/biome-swamp-zombie - 32x PNG has unknown colors
+entity\zombie_villager2\biomes/biome-taiga-zombie_mers.tga - inconsistent color mapping
+environment/clouds - missing 32x PNG
+environment/end_portal_colors - missing 32x PNG
+environment/end_sky - missing 32x PNG
+environment/moon_phases - 32x PNG has unknown colors
+environment/sun_vv - missing 32x PNG
+environment/weather - 32x PNG has unknown colors
+gui/enchanting_table - missing 32x PNG
+gui/gui - 32x PNG has unknown colors
+gui/gui2 - missing 32x PNG
+gui/icons - missing 32x PNG
+gui/spritesheet - missing 32x PNG
+gui/spritesheet2 - missing 32x PNG
+gui/touchgui - missing 32x PNG
+gui/touchgui2 - missing 32x PNG
+gui\controls/dismount - 32x PNG has unknown colors
+gui\controls/dismount_pressed - 32x PNG has unknown colors
+gui\controls/down - 32x PNG has unknown colors
+gui\controls/down_left_pressed - 32x PNG has unknown colors
+gui\controls/down_right_pressed - 32x PNG has unknown colors
+gui\controls/flyingascend - 32x PNG has unknown colors
+gui\controls/flyingascend_pressed - 32x PNG has unknown colors
+gui\controls/flyingdescend - 32x PNG has unknown colors
+gui\controls/flyingdescend_pressed - 32x PNG has unknown colors
+gui\controls/jump - 32x PNG has unknown colors
+gui\controls/jump_pressed - 32x PNG has unknown colors
+gui\controls/large_button - 32x PNG has unknown colors
+gui\controls/large_button_pressed - 32x PNG has unknown colors
+gui\controls/left - 32x PNG has unknown colors
+gui\controls/right - 32x PNG has unknown colors
+gui\controls/sneak - 32x PNG has unknown colors
+gui\controls/sneak_pressed - 32x PNG has unknown colors
+gui\controls/up - 32x PNG has unknown colors
+gui\controls/up_left_pressed - 32x PNG has unknown colors
+gui\controls/up_pressed - 32x PNG has unknown colors
+gui\controls/up_right_pressed - 32x PNG has unknown colors
+gui\controls/waterascend - 32x PNG has unknown colors
+gui\controls/waterascend_pressed - 32x PNG has unknown colors
+gui\controls/waterdescend_pressed - 32x PNG has unknown colors
+gui\newgui/anvil-arrow - missing 32x PNG
+gui\newgui/anvil-crossout - missing 32x PNG
+gui\newgui/anvil-hammer - missing 32x PNG
+gui\newgui/arrowLeft - missing 32x PNG
+gui\newgui/arrow_large - missing 32x PNG
+gui\newgui/auto_save - missing 32x PNG
+gui\newgui/buttonNew - missing 32x PNG
+gui\newgui/ButtonWithBorder - missing 32x PNG
+gui\newgui/ButtonWithBorderHover - missing 32x PNG
+gui\newgui/ButtonWithBorderPressed - missing 32x PNG
+gui\newgui/ButtonWithBorderPressedNoHover - missing 32x PNG
+gui\newgui/check1 - missing 32x PNG
+gui\newgui/check2 - missing 32x PNG
+gui\newgui/clouds - missing 32x PNG
+gui\newgui/DarkButtonNoStroke - missing 32x PNG
+gui\newgui/DarkButtonStroke - missing 32x PNG
+gui\newgui/DarkButtonThin - missing 32x PNG
+gui\newgui/dialog-background-atlas - missing 32x PNG
+gui\newgui/Dot1 - missing 32x PNG
+gui\newgui/Dot2 - missing 32x PNG
+gui\newgui/Dot3 - missing 32x PNG
+gui\newgui/double_side_transparent - missing 32x PNG
+gui\newgui/DownArrow - missing 32x PNG
+gui\newgui/EventBars - missing 32x PNG
+gui\newgui/focusBorder - missing 32x PNG
+gui\newgui/Friends - missing 32x PNG
+gui\newgui/GreenBG - missing 32x PNG
+gui\newgui/Indent - missing 32x PNG
+gui\newgui/Language16 - missing 32x PNG
+gui\newgui/Language18 - missing 32x PNG
+gui\newgui/LeftArrow - missing 32x PNG
+gui\newgui/LeftTabFront - missing 32x PNG
+gui\newgui/Local - missing 32x PNG
+gui\newgui/MainBanners - missing 32x PNG
+gui\newgui/MiddleTabFront - missing 32x PNG
+gui\newgui/offlineLight - missing 32x PNG
+gui\newgui/Propeller2 - missing 32x PNG
+gui\newgui/Realms - missing 32x PNG
+gui\newgui/RealmsArt - missing 32x PNG
+gui\newgui/realms_toggle_off - missing 32x PNG
+gui\newgui/realms_toggle_on - missing 32x PNG
+gui\newgui/RightArrow - missing 32x PNG
+gui\newgui/RightTabFront - missing 32x PNG
+gui\newgui/ScrollGutter - missing 32x PNG
+gui\newgui/share - missing 32x PNG
+gui\newgui/TabBack - missing 32x PNG
+gui\newgui/TabBackInGame - missing 32x PNG
+gui\newgui/TabBackInGameLeftMost - missing 32x PNG
+gui\newgui/TabFront - missing 32x PNG
+gui\newgui/TabFrontInGame - missing 32x PNG
+gui\newgui/TabFrontInGameLeftMost - missing 32x PNG
+gui\newgui/TopBar - missing 32x PNG
+gui\newgui/trash - missing 32x PNG
+gui\newgui/undo - missing 32x PNG
+gui\newgui/UpArrow - missing 32x PNG
+gui\newgui/viewCollapsed - missing 32x PNG
+gui\newgui/viewExpanded - missing 32x PNG
+gui\newgui/WhiteBorder - missing 32x PNG
+gui\newgui/Wrenches2 - missing 32x PNG
+gui\newgui/X - 32x PNG has unknown colors
+gui\newgui/XHover - 32x PNG has unknown colors
+gui\newgui/XPress - 32x PNG has unknown colors
+gui\newgui/yellowStrikethru - missing 32x PNG
+gui\newgui\Bundle/PaintBrush - missing 32x PNG
+gui\newgui\buttons\border/base - missing 32x PNG
+gui\newgui\buttons\border/basePress - missing 32x PNG
+gui\newgui\buttons\border/hover - missing 32x PNG
+gui\newgui\buttons\border/hoverPress - missing 32x PNG
+gui\newgui\buttons\borderless/dark - missing 32x PNG
+gui\newgui\buttons\borderless/darkhover - missing 32x PNG
+gui\newgui\buttons\borderless/darkpressed - missing 32x PNG
+gui\newgui\buttons\borderless/darkpressednohover - missing 32x PNG
+gui\newgui\buttons\borderless/imagelesshoverbg - missing 32x PNG
+gui\newgui\buttons\borderless/light - missing 32x PNG
+gui\newgui\buttons\borderless/lighthover - missing 32x PNG
+gui\newgui\buttons\borderless/lightpressed - missing 32x PNG
+gui\newgui\buttons\borderless/lightpressednohover - missing 32x PNG
+gui\newgui\buttons\checkbox/Check - missing 32x PNG
+gui\newgui\buttons\checkbox/checkboxFilled - 32x PNG has unknown colors
+gui\newgui\buttons\checkbox/checkbox_checked - 32x PNG has unknown colors
+gui\newgui\buttons\checkbox/checkbox_checked_WhiteBorder_disabled - 32x PNG has unknown colors
+gui\newgui\buttons\checkbox/checkbox_filled_WhiteBorder - missing 32x PNG
+gui\newgui\buttons\checkbox/checkbox_filled_WhiteBorder_disabled - missing 32x PNG
+gui\newgui\buttons\checkbox/checkbox_unchecked - 32x PNG has unknown colors
+gui\newgui\buttons\checkbox/checkbox_unchecked_WhiteBorder_disabled - 32x PNG has unknown colors
+gui\newgui\buttons\new_checkbox/check - missing 32x PNG
+gui\newgui\buttons\new_checkbox/checkDisabled - missing 32x PNG
+gui\newgui\buttons\new_checkbox/checkHover - missing 32x PNG
+gui\newgui\buttons\new_checkbox/space - missing 32x PNG
+gui\newgui\buttons\new_checkbox/spaceDisabled - missing 32x PNG
+gui\newgui\buttons\new_checkbox/spaceHover - missing 32x PNG
+gui\newgui\mob_effects/bad_omen_effect - missing 32x PNG
+gui\newgui\mob_effects/blindness_effect - missing 32x PNG
+gui\newgui\mob_effects/fire_resistance_effect - missing 32x PNG
+gui\newgui\mob_effects/haste_effect - missing 32x PNG
+gui\newgui\mob_effects/hunger_effect - missing 32x PNG
+gui\newgui\mob_effects/invisibility_effect - missing 32x PNG
+gui\newgui\mob_effects/jump_boost_effect - missing 32x PNG
+gui\newgui\mob_effects/levitation_effect - missing 32x PNG
+gui\newgui\mob_effects/mining_fatigue_effect - missing 32x PNG
+gui\newgui\mob_effects/nausea_effect - missing 32x PNG
+gui\newgui\mob_effects/night_vision_effect - missing 32x PNG
+gui\newgui\mob_effects/poison_effect - missing 32x PNG
+gui\newgui\mob_effects/regeneration_effect - missing 32x PNG
+gui\newgui\mob_effects/resistance_effect - missing 32x PNG
+gui\newgui\mob_effects/slowness_effect - missing 32x PNG
+gui\newgui\mob_effects/speed_effect - missing 32x PNG
+gui\newgui\mob_effects/strength_effect - missing 32x PNG
+gui\newgui\mob_effects/village_hero_effect - missing 32x PNG
+gui\newgui\mob_effects/water_breathing_effect - missing 32x PNG
+gui\newgui\mob_effects/weakness_effect - missing 32x PNG
+gui\newgui\mob_effects/wither_effect - missing 32x PNG
+gui\newgui\play_screen/DarkButtonThinStroke1 - missing 32x PNG
+gui\newgui\play_screen/HoverButtonThinNewBevel - missing 32x PNG
+gui\newgui\play_screen/HoverButtonThinNewBevel2 - missing 32x PNG
+gui\newgui\play_screen/HoverButtonThinNewBevel3 - missing 32x PNG
+gui\newgui\play_screen/HoverButtonThinNewBevel4 - missing 32x PNG
+gui\newgui\play_screen/HoverButtonThinStroke - missing 32x PNG
+gui\newgui\play_screen/Indent2 - missing 32x PNG
+gui\newgui\play_screen/LeftTabFront - missing 32x PNG
+gui\newgui\play_screen/MiddleTabFront - missing 32x PNG
+gui\newgui\play_screen/NormalButtonThinNewBevel - missing 32x PNG
+gui\newgui\play_screen/PressedButtonThinStroke - missing 32x PNG
+gui\newgui\play_screen/RightTabFront - missing 32x PNG
+gui\newgui\play_screen/TabBackDarker - missing 32x PNG
+gui\newgui\play_screen/TabFront - missing 32x PNG
+gui\newgui\portfolio/grey_button_default - missing 32x PNG
+gui\newgui\portfolio/grey_button_hover - missing 32x PNG
+gui\newgui\portfolio/grey_button_pressed - missing 32x PNG
+gui\newgui\settings/glyph_atlas - missing 32x PNG
+gui\newgui\settings/glyph_color_atlas - missing 32x PNG
+gui\newgui\settings/radio_checked - missing 32x PNG
+gui\newgui\settings/radio_checked_hover - missing 32x PNG
+gui\newgui\settings/radio_off - missing 32x PNG
+gui\newgui\settings/radio_off_hover - missing 32x PNG
+items/acacia_chest_boat - 32x PNG has unknown colors
+items/acacia_hanging_sign - 32x PNG has unknown colors
+items/amethyst_shard_mers.tga - inconsistent color mapping
+items/angler_pottery_sherd_mers.tga - inconsistent color mapping
+items/apple - 32x PNG has unknown colors
+items/apple_golden - 32x PNG has unknown colors
+items/archer_pottery_sherd_mers.tga - inconsistent color mapping
+items/armadillo_scute_mers.tga - inconsistent color mapping
+items/armor_stand_mers.tga - inconsistent color mapping
+items/arms_up_pottery_sherd_mers.tga - inconsistent color mapping
+items/arrow - 32x PNG has unknown colors
+items/bamboo_chest_raft_mers.tga - inconsistent color mapping
+items/bamboo_door_mers.tga - inconsistent color mapping
+items/bamboo_hanging_sign_mers.tga - inconsistent color mapping
+items/bamboo_mers.tga - inconsistent color mapping
+items/bamboo_raft_mers.tga - inconsistent color mapping
+items/bamboo_sign_mers.tga - inconsistent color mapping
+items/bamboo_chest_raft - 32x PNG has unknown colors
+items/bamboo_hanging_sign - 32x PNG has unknown colors
+items/bamboo_sign - 32x PNG has unknown colors
+items/banner_pattern - 32x PNG has unknown colors
+items/bed_black - 32x PNG has unknown colors
+items/bed_blue - 32x PNG has unknown colors
+items/bed_brown - 32x PNG has unknown colors
+items/bed_cyan - 32x PNG has unknown colors
+items/bed_gray - 32x PNG has unknown colors
+items/bed_green - 32x PNG has unknown colors
+items/bed_light_blue - 32x PNG has unknown colors
+items/bed_lime - 32x PNG has unknown colors
+items/bed_magenta - 32x PNG has unknown colors
+items/bed_orange - 32x PNG has unknown colors
+items/bed_pink - 32x PNG has unknown colors
+items/bed_purple - 32x PNG has unknown colors
+items/bed_red - 32x PNG has unknown colors
+items/bed_silver - 32x PNG has unknown colors
+items/bed_white - 32x PNG has unknown colors
+items/bed_yellow - 32x PNG has unknown colors
+items/beetroot_mers.tga - inconsistent color mapping
+items/beetroot_soup_mers.tga - inconsistent color mapping
+items/beetroot_soup - 32x PNG has unknown colors
+items/birch_chest_boat - 32x PNG has unknown colors
+items/birch_hanging_sign - 32x PNG has unknown colors
+items/blade_pottery_sherd_mers.tga - inconsistent color mapping
+items/blaze_powder - 32x PNG has unknown colors
+items/blaze_rod_mers.tga - inconsistent color mapping
+items/boat - 32x PNG has unknown colors
+items/boat_acacia - 32x PNG has unknown colors
+items/boat_birch - 32x PNG has unknown colors
+items/boat_darkoak - 32x PNG has unknown colors
+items/boat_dark_oak - 32x PNG has unknown colors
+items/boat_jungle - 32x PNG has unknown colors
+items/boat_oak - 32x PNG has unknown colors
+items/boat_spruce - 32x PNG has unknown colors
+items/bone_mers.tga - inconsistent color mapping
+items/book_enchanted - 32x PNG has unknown colors
+items/book_normal - 32x PNG has unknown colors
+items/book_portfolio - 32x PNG has unknown colors
+items/book_writable - 32x PNG has unknown colors
+items/book_written - 32x PNG has unknown colors
+items/bordure_indented_banner_pattern_mers.tga - inconsistent color mapping
+items/bowl - 32x PNG has unknown colors
+items/bow_pulling_0_mers.tga - inconsistent color mapping
+items/bow_pulling_1_mers.tga - inconsistent color mapping
+items/bow_pulling_2_mers.tga - inconsistent color mapping
+items/bow_standby - 32x PNG has unknown colors
+items/bread_mers.tga - inconsistent color mapping
+items/brewer_pottery_sherd_mers.tga - inconsistent color mapping
+items/brewing_stand_mers.tga - inconsistent color mapping
+items/brick_mers.tga - inconsistent color mapping
+items/broken_elytra - 32x PNG has unknown colors
+items/brush_mers.tga - inconsistent color mapping
+items/bucket_axolotl - 32x PNG has unknown colors
+items/bucket_cod - 32x PNG has unknown colors
+items/bucket_empty - 32x PNG has unknown colors
+items/bucket_lava - 32x PNG has unknown colors
+items/bucket_milk - 32x PNG has unknown colors
+items/bucket_powder_snow - 32x PNG has unknown colors
+items/bucket_pufferfish_mers.tga - inconsistent color mapping
+items/bucket_salmon - 32x PNG has unknown colors
+items/bucket_tadpole - 32x PNG has unknown colors
+items/bucket_tropical - 32x PNG has unknown colors
+items/bucket_water - 32x PNG has unknown colors
+items/bundle_black_mers.tga - inconsistent color mapping
+items/bundle_black_open_back_mers.tga - inconsistent color mapping
+items/bundle_black_open_front_mers.tga - inconsistent color mapping
+items/bundle_black_open_mers.tga - inconsistent color mapping
+items/bundle_blue_mers.tga - inconsistent color mapping
+items/bundle_blue_open_back_mers.tga - inconsistent color mapping
+items/bundle_blue_open_front_mers.tga - inconsistent color mapping
+items/bundle_blue_open_mers.tga - inconsistent color mapping
+items/bundle_brown_mers.tga - inconsistent color mapping
+items/bundle_brown_open_back_mers.tga - inconsistent color mapping
+items/bundle_brown_open_front_mers.tga - inconsistent color mapping
+items/bundle_brown_open_mers.tga - inconsistent color mapping
+items/bundle_cyan_mers.tga - inconsistent color mapping
+items/bundle_cyan_open_back_mers.tga - inconsistent color mapping
+items/bundle_cyan_open_front_mers.tga - inconsistent color mapping
+items/bundle_cyan_open_mers.tga - inconsistent color mapping
+items/bundle_gray_mers.tga - inconsistent color mapping
+items/bundle_gray_open_back_mers.tga - inconsistent color mapping
+items/bundle_gray_open_front_mers.tga - inconsistent color mapping
+items/bundle_gray_open_mers.tga - inconsistent color mapping
+items/bundle_green_mers.tga - inconsistent color mapping
+items/bundle_green_open_back_mers.tga - inconsistent color mapping
+items/bundle_green_open_front_mers.tga - inconsistent color mapping
+items/bundle_green_open_mers.tga - inconsistent color mapping
+items/bundle_light_blue_mers.tga - inconsistent color mapping
+items/bundle_light_blue_open_back_mers.tga - inconsistent color mapping
+items/bundle_light_blue_open_front_mers.tga - inconsistent color mapping
+items/bundle_light_blue_open_mers.tga - inconsistent color mapping
+items/bundle_light_gray_mers.tga - inconsistent color mapping
+items/bundle_light_gray_open_back_mers.tga - inconsistent color mapping
+items/bundle_light_gray_open_front_mers.tga - inconsistent color mapping
+items/bundle_light_gray_open_mers.tga - inconsistent color mapping
+items/bundle_lime_mers.tga - inconsistent color mapping
+items/bundle_lime_open_back_mers.tga - inconsistent color mapping
+items/bundle_lime_open_front_mers.tga - inconsistent color mapping
+items/bundle_lime_open_mers.tga - inconsistent color mapping
+items/bundle_magenta_mers.tga - inconsistent color mapping
+items/bundle_magenta_open_back_mers.tga - inconsistent color mapping
+items/bundle_magenta_open_front_mers.tga - inconsistent color mapping
+items/bundle_magenta_open_mers.tga - inconsistent color mapping
+items/bundle_mers.tga - inconsistent color mapping
+items/bundle_open_back_mers.tga - inconsistent color mapping
+items/bundle_open_front_mers.tga - inconsistent color mapping
+items/bundle_open_mers.tga - inconsistent color mapping
+items/bundle_orange_mers.tga - inconsistent color mapping
+items/bundle_orange_open_back_mers.tga - inconsistent color mapping
+items/bundle_orange_open_front_mers.tga - inconsistent color mapping
+items/bundle_orange_open_mers.tga - inconsistent color mapping
+items/bundle_pink_mers.tga - inconsistent color mapping
+items/bundle_pink_open_back_mers.tga - inconsistent color mapping
+items/bundle_pink_open_front_mers.tga - inconsistent color mapping
+items/bundle_pink_open_mers.tga - inconsistent color mapping
+items/bundle_purple_mers.tga - inconsistent color mapping
+items/bundle_purple_open_back_mers.tga - inconsistent color mapping
+items/bundle_purple_open_front_mers.tga - inconsistent color mapping
+items/bundle_purple_open_mers.tga - inconsistent color mapping
+items/bundle_red_mers.tga - inconsistent color mapping
+items/bundle_red_open_back_mers.tga - inconsistent color mapping
+items/bundle_red_open_front_mers.tga - inconsistent color mapping
+items/bundle_red_open_mers.tga - inconsistent color mapping
+items/bundle_white_mers.tga - inconsistent color mapping
+items/bundle_white_open_back_mers.tga - inconsistent color mapping
+items/bundle_white_open_front_mers.tga - inconsistent color mapping
+items/bundle_white_open_mers.tga - inconsistent color mapping
+items/bundle_yellow_mers.tga - inconsistent color mapping
+items/bundle_yellow_open_back_mers.tga - inconsistent color mapping
+items/bundle_yellow_open_front_mers.tga - inconsistent color mapping
+items/bundle_yellow_open_mers.tga - inconsistent color mapping
+items/bundle_black - 32x PNG has unknown colors
+items/bundle_black_open_back_mers.tga - inconsistent color mapping
+items/bundle_black_open_front_mers.tga - inconsistent color mapping
+items/bundle_black_open_mers.tga - inconsistent color mapping
+items/bundle_black_open_back - 32x PNG has unknown colors
+items/bundle_black_open_front_mers.tga - inconsistent color mapping
+items/bundle_blue - 32x PNG has unknown colors
+items/bundle_blue_open_back_mers.tga - inconsistent color mapping
+items/bundle_blue_open_front_mers.tga - inconsistent color mapping
+items/bundle_blue_open_mers.tga - inconsistent color mapping
+items/bundle_blue_open_back - 32x PNG has unknown colors
+items/bundle_blue_open_front_mers.tga - inconsistent color mapping
+items/bundle_brown - 32x PNG has unknown colors
+items/bundle_brown_open_back_mers.tga - inconsistent color mapping
+items/bundle_brown_open_front_mers.tga - inconsistent color mapping
+items/bundle_brown_open_mers.tga - inconsistent color mapping
+items/bundle_brown_open_back - 32x PNG has unknown colors
+items/bundle_brown_open_front_mers.tga - inconsistent color mapping
+items/bundle_cyan - 32x PNG has unknown colors
+items/bundle_cyan_open - 32x PNG has unknown colors
+items/bundle_cyan_open_back - 32x PNG has unknown colors
+items/bundle_cyan_open_front_mers.tga - inconsistent color mapping
+items/bundle_gray - 32x PNG has unknown colors
+items/bundle_gray_open - 32x PNG has unknown colors
+items/bundle_gray_open_back - 32x PNG has unknown colors
+items/bundle_gray_open_front_mers.tga - inconsistent color mapping
+items/bundle_green - 32x PNG has unknown colors
+items/bundle_green_open - 32x PNG has unknown colors
+items/bundle_green_open_back - 32x PNG has unknown colors
+items/bundle_green_open_front_mers.tga - inconsistent color mapping
+items/bundle_light_blue - 32x PNG has unknown colors
+items/bundle_light_blue_open - 32x PNG has unknown colors
+items/bundle_light_blue_open_back - 32x PNG has unknown colors
+items/bundle_light_blue_open_front_mers.tga - inconsistent color mapping
+items/bundle_light_gray - 32x PNG has unknown colors
+items/bundle_light_gray_open - 32x PNG has unknown colors
+items/bundle_light_gray_open_back - 32x PNG has unknown colors
+items/bundle_light_gray_open_front_mers.tga - inconsistent color mapping
+items/bundle_lime - 32x PNG has unknown colors
+items/bundle_lime_open - 32x PNG has unknown colors
+items/bundle_lime_open_back - 32x PNG has unknown colors
+items/bundle_lime_open_front_mers.tga - inconsistent color mapping
+items/bundle_magenta - 32x PNG has unknown colors
+items/bundle_magenta_open - 32x PNG has unknown colors
+items/bundle_magenta_open_back - 32x PNG has unknown colors
+items/bundle_magenta_open_front - 32x PNG has unknown colors
+items/bundle_open - 32x PNG has unknown colors
+items/bundle_open_back - 32x PNG has unknown colors
+items/bundle_open_front - 32x PNG has unknown colors
+items/bundle_orange - 32x PNG has unknown colors
+items/bundle_orange_open_back_mers.tga - inconsistent color mapping
+items/bundle_orange_open_front_mers.tga - inconsistent color mapping
+items/bundle_orange_open_mers.tga - inconsistent color mapping
+items/bundle_orange_open_back - 32x PNG has unknown colors
+items/bundle_orange_open_front_mers.tga - inconsistent color mapping
+items/bundle_pink_mers.tga - inconsistent color mapping
+items/bundle_pink_open_back_mers.tga - inconsistent color mapping
+items/bundle_pink_open_front_mers.tga - inconsistent color mapping
+items/bundle_pink_open_mers.tga - inconsistent color mapping
+items/bundle_pink_open - 32x PNG has unknown colors
+items/bundle_pink_open_back - 32x PNG has unknown colors
+items/bundle_pink_open_front_mers.tga - inconsistent color mapping
+items/bundle_purple - 32x PNG has unknown colors
+items/bundle_purple_open - 32x PNG has unknown colors
+items/bundle_purple_open_back - 32x PNG has unknown colors
+items/bundle_purple_open_front - 32x PNG has unknown colors
+items/bundle_red - 32x PNG has unknown colors
+items/bundle_red_open_back_mers.tga - inconsistent color mapping
+items/bundle_red_open_front_mers.tga - inconsistent color mapping
+items/bundle_red_open_mers.tga - inconsistent color mapping
+items/bundle_red_open_back - 32x PNG has unknown colors
+items/bundle_red_open_front_mers.tga - inconsistent color mapping
+items/bundle_white - 32x PNG has unknown colors
+items/bundle_white_open - 32x PNG has unknown colors
+items/bundle_white_open_back - 32x PNG has unknown colors
+items/bundle_white_open_front_mers.tga - inconsistent color mapping
+items/bundle_yellow - 32x PNG has unknown colors
+items/bundle_yellow_open - 32x PNG has unknown colors
+items/bundle_yellow_open_back - 32x PNG has unknown colors
+items/bundle_yellow_open_front_mers.tga - inconsistent color mapping
+items/burn_pottery_sherd_mers.tga - inconsistent color mapping
+items/bush_mers.tga - inconsistent color mapping
+items/cake_mers.tga - inconsistent color mapping
+items/carrot_mers.tga - inconsistent color mapping
+items/carrot_on_a_stick_mers.tga - inconsistent color mapping
+items/carrot_on_a_stick - 32x PNG has unknown colors
+items/cauldron_mers.tga - inconsistent color mapping
+items/chainmail_boots_mers.tga - inconsistent color mapping
+items/chainmail_chestplate_mers.tga - inconsistent color mapping
+items/chainmail_helmet_mers.tga - inconsistent color mapping
+items/chainmail_leggings_mers.tga - inconsistent color mapping
+items/chainmail_boots_mers.tga - inconsistent color mapping
+items/chainmail_chestplate_mers.tga - inconsistent color mapping
+items/chainmail_helmet - 32x PNG has unknown colors
+items/chainmail_leggings_mers.tga - inconsistent color mapping
+items/chalkboard_large - 32x PNG has unknown colors
+items/chalkboard_medium - 32x PNG has unknown colors
+items/chalkboard_small - 32x PNG has unknown colors
+items/charcoal_mers.tga - inconsistent color mapping
+items/cherry_boat_mers.tga - inconsistent color mapping
+items/cherry_door_mers.tga - inconsistent color mapping
+items/cherry_hanging_sign - 32x PNG has unknown colors
+items/cherry_sign - 32x PNG has unknown colors
+items/chorus_fruit - 32x PNG has unknown colors
+items/chorus_fruit_popped_mers.tga - inconsistent color mapping
+items/clay_ball_mers.tga - inconsistent color mapping
+items/clock_item - 32x PNG has unknown colors
+items/comparator - 32x PNG has unknown colors
+items/compass_atlas - 32x PNG has unknown colors
+items/compass_item - 32x PNG has unknown colors
+items/cookie - 32x PNG has unknown colors
+items/copper_door_mers.tga - inconsistent color mapping
+items/copper_ingot_mers.tga - inconsistent color mapping
+items/creeper_banner_pattern_mers.tga - inconsistent color mapping
+items/crimson_door_mers.tga - inconsistent color mapping
+items/crimson_hanging_sign - 32x PNG has unknown colors
+items/crossbow_arrow - 32x PNG has unknown colors
+items/crossbow_firework - 32x PNG has unknown colors
+items/crossbow_pulling_0_mers.tga - inconsistent color mapping
+items/crossbow_pulling_1_mers.tga - inconsistent color mapping
+items/crossbow_pulling_2_mers.tga - inconsistent color mapping
+items/crossbow_standby_mers.tga - inconsistent color mapping
+items/danger_pottery_sherd_mers.tga - inconsistent color mapping
+items/dark_oak_chest_boat - 32x PNG has unknown colors
+items/dark_oak_hanging_sign - 32x PNG has unknown colors
+items/diamond_axe_mers.tga - inconsistent color mapping
+items/diamond_boots_mers.tga - inconsistent color mapping
+items/diamond_chestplate_mers.tga - inconsistent color mapping
+items/diamond_helmet_mers.tga - inconsistent color mapping
+items/diamond_hoe_mers.tga - inconsistent color mapping
+items/diamond_horse_armor_mers.tga - inconsistent color mapping
+items/diamond_leggings_mers.tga - inconsistent color mapping
+items/diamond_mers.tga - inconsistent color mapping
+items/diamond_pickaxe_mers.tga - inconsistent color mapping
+items/diamond_shovel_mers.tga - inconsistent color mapping
+items/diamond_sword_mers.tga - inconsistent color mapping
+items/diamond_axe_mers.tga - inconsistent color mapping
+items/diamond_boots_mers.tga - inconsistent color mapping
+items/diamond_chestplate_mers.tga - inconsistent color mapping
+items/diamond_helmet - 32x PNG has unknown colors
+items/diamond_hoe_mers.tga - inconsistent color mapping
+items/diamond_horse_armor_mers.tga - inconsistent color mapping
+items/diamond_leggings_mers.tga - inconsistent color mapping
+items/diamond_pickaxe - 32x PNG has unknown colors
+items/diamond_shovel_mers.tga - inconsistent color mapping
+items/diamond_sword_mers.tga - inconsistent color mapping
+items/disc_fragment_5 - 32x PNG has unknown colors
+items/door_acacia_mers.tga - inconsistent color mapping
+items/door_birch_mers.tga - inconsistent color mapping
+items/door_dark_oak_mers.tga - inconsistent color mapping
+items/door_jungle_mers.tga - inconsistent color mapping
+items/door_spruce - 32x PNG has unknown colors
+items/door_wood_mers.tga - inconsistent color mapping
+items/dragons_breath_mers.tga - inconsistent color mapping
+items/dragon_fireball - 32x PNG has unknown colors
+items/dried_kelp - 32x PNG has unknown colors
+items/dune_armor_trim_smithing_template - 32x PNG has unknown colors
+items/dye_powder_black_mers.tga - inconsistent color mapping
+items/dye_powder_black_new_mers.tga - inconsistent color mapping
+items/dye_powder_black_new_mers.tga - inconsistent color mapping
+items/dye_powder_blue - 32x PNG has unknown colors
+items/dye_powder_blue_new - 32x PNG has unknown colors
+items/dye_powder_brown_mers.tga - inconsistent color mapping
+items/dye_powder_brown_new_mers.tga - inconsistent color mapping
+items/dye_powder_brown_new_mers.tga - inconsistent color mapping
+items/dye_powder_cyan - 32x PNG has unknown colors
+items/dye_powder_glow_mers.tga - inconsistent color mapping
+items/dye_powder_gray - 32x PNG has unknown colors
+items/dye_powder_green_mers.tga - inconsistent color mapping
+items/dye_powder_light_blue_mers.tga - inconsistent color mapping
+items/dye_powder_lime - 32x PNG has unknown colors
+items/dye_powder_magenta - 32x PNG has unknown colors
+items/dye_powder_orange_mers.tga - inconsistent color mapping
+items/dye_powder_pink - 32x PNG has unknown colors
+items/dye_powder_purple - 32x PNG has unknown colors
+items/dye_powder_red_mers.tga - inconsistent color mapping
+items/dye_powder_silver - 32x PNG has unknown colors
+items/dye_powder_white_mers.tga - inconsistent color mapping
+items/dye_powder_white_new_mers.tga - inconsistent color mapping
+items/dye_powder_white_new - 32x PNG has unknown colors
+items/dye_powder_yellow - 32x PNG has unknown colors
+items/echo_shard_mers.tga - inconsistent color mapping
+items/egg_mers.tga - inconsistent color mapping
+items/egg_npc_mers.tga - inconsistent color mapping
+items/egg_agent - 32x PNG has unknown colors
+items/egg_bat - 32x PNG has unknown colors
+items/egg_bee - 32x PNG has unknown colors
+items/egg_blaze - 32x PNG has unknown colors
+items/egg_cat - 32x PNG has unknown colors
+items/egg_cave_spider - 32x PNG has unknown colors
+items/egg_chicken - 32x PNG has unknown colors
+items/egg_clownfish - 32x PNG has unknown colors
+items/egg_cod - 32x PNG has unknown colors
+items/egg_cow - 32x PNG has unknown colors
+items/egg_creeper - 32x PNG has unknown colors
+items/egg_dolphin - 32x PNG has unknown colors
+items/egg_donkey - 32x PNG has unknown colors
+items/egg_drowned - 32x PNG has unknown colors
+items/egg_elderguardian - 32x PNG has unknown colors
+items/egg_enderman - 32x PNG has unknown colors
+items/egg_endermite - 32x PNG has unknown colors
+items/egg_evoker - 32x PNG has unknown colors
+items/egg_fish - 32x PNG has unknown colors
+items/egg_fox - 32x PNG has unknown colors
+items/egg_ghast - 32x PNG has unknown colors
+items/egg_glow_squid - 32x PNG has unknown colors
+items/egg_guardian - 32x PNG has unknown colors
+items/egg_horse - 32x PNG has unknown colors
+items/egg_husk - 32x PNG has unknown colors
+items/egg_lava_slime - 32x PNG has unknown colors
+items/egg_llama - 32x PNG has unknown colors
+items/egg_mask - 32x PNG has unknown colors
+items/egg_mule - 32x PNG has unknown colors
+items/egg_mushroomcow - 32x PNG has unknown colors
+items/egg_npc - 32x PNG has unknown colors
+items/egg_null - 32x PNG has unknown colors
+items/egg_ocelot - 32x PNG has unknown colors
+items/egg_panda - 32x PNG has unknown colors
+items/egg_parrot - 32x PNG has unknown colors
+items/egg_phantom - 32x PNG has unknown colors
+items/egg_pig - 32x PNG has unknown colors
+items/egg_pigzombie - 32x PNG has unknown colors
+items/egg_pillager - 32x PNG has unknown colors
+items/egg_polarbear - 32x PNG has unknown colors
+items/egg_pufferfish - 32x PNG has unknown colors
+items/egg_rabbit - 32x PNG has unknown colors
+items/egg_ravager - 32x PNG has unknown colors
+items/egg_salmon - 32x PNG has unknown colors
+items/egg_sheep - 32x PNG has unknown colors
+items/egg_shulker - 32x PNG has unknown colors
+items/egg_silverfish - 32x PNG has unknown colors
+items/egg_skeleton - 32x PNG has unknown colors
+items/egg_skeletonhorse - 32x PNG has unknown colors
+items/egg_slime - 32x PNG has unknown colors
+items/egg_spider - 32x PNG has unknown colors
+items/egg_squid - 32x PNG has unknown colors
+items/egg_stray - 32x PNG has unknown colors
+items/egg_turtle - 32x PNG has unknown colors
+items/egg_vex - 32x PNG has unknown colors
+items/egg_villager - 32x PNG has unknown colors
+items/egg_vindicator - 32x PNG has unknown colors
+items/egg_wanderingtrader - 32x PNG has unknown colors
+items/egg_witch - 32x PNG has unknown colors
+items/egg_wither - 32x PNG has unknown colors
+items/egg_wolf - 32x PNG has unknown colors
+items/egg_zombie - 32x PNG has unknown colors
+items/egg_zombiehorse - 32x PNG has unknown colors
+items/egg_zombievillager - 32x PNG has unknown colors
+items/elytra - 32x PNG has unknown colors
+items/emerald_mers.tga - inconsistent color mapping
+items/empty_armor_slot_boots - 32x PNG has unknown colors
+items/empty_armor_slot_chestplate - 32x PNG has unknown colors
+items/empty_armor_slot_helmet - 32x PNG has unknown colors
+items/empty_armor_slot_leggings - 32x PNG has unknown colors
+items/empty_armor_slot_shield - 32x PNG has unknown colors
+items/ender_eye - 32x PNG has unknown colors
+items/ender_pearl - 32x PNG has unknown colors
+items/end_crystal - 32x PNG has unknown colors
+items/experience_bottle - 32x PNG has unknown colors
+items/explorer_pottery_sherd_mers.tga - inconsistent color mapping
+items/feather_mers.tga - inconsistent color mapping
+items/field_masoned_banner_pattern_mers.tga - inconsistent color mapping
+items/fireball - 32x PNG has unknown colors
+items/firefly_bush - 32x PNG has unknown colors
+items/fireworks_charge.tga - inconsistent color mapping
+items/fireworks_charge_mers.tga - inconsistent color mapping
+items/fireworks_mers.tga - inconsistent color mapping
+items/fishing_rod_cast - 32x PNG has unknown colors
+items/fishing_rod_uncast_mers.tga - inconsistent color mapping
+items/fish_pufferfish_raw_mers.tga - inconsistent color mapping
+items/fish_salmon_cooked - 32x PNG has unknown colors
+items/fish_salmon_raw - 32x PNG has unknown colors
+items/flint_and_steel_mers.tga - inconsistent color mapping
+items/flint_mers.tga - inconsistent color mapping
+items/flower_banner_pattern_mers.tga - inconsistent color mapping
+items/flower_pot - 32x PNG has unknown colors
+items/flow_banner_pattern_mers.tga - inconsistent color mapping
+items/flow_pottery_sherd_mers.tga - inconsistent color mapping
+items/friend_pottery_sherd_mers.tga - inconsistent color mapping
+items/globe_banner_pattern_mers.tga - inconsistent color mapping
+items/glowstone_dust_mers.tga - inconsistent color mapping
+items/glow_berries_mers.tga - inconsistent color mapping
+items/glow_item_frame_mers.tga - inconsistent color mapping
+items/goat_horn_mers.tga - inconsistent color mapping
+items/gold_helmet - 32x PNG has unknown colors
+items/gold_pickaxe - 32x PNG has unknown colors
+items/gunpowder_mers.tga - inconsistent color mapping
+items/guster_banner_pattern_mers.tga - inconsistent color mapping
+items/guster_pottery_sherd_mers.tga - inconsistent color mapping
+items/hanging_roots - 32x PNG has unknown colors
+items/heartbreak_pottery_sherd_mers.tga - inconsistent color mapping
+items/heartofthesea_closed - 32x PNG has unknown colors
+items/heart_pottery_sherd_mers.tga - inconsistent color mapping
+items/honeycomb_mers.tga - inconsistent color mapping
+items/honey_bottle - 32x PNG has unknown colors
+items/hopper_mers.tga - inconsistent color mapping
+items/howl_pottery_sherd_mers.tga - inconsistent color mapping
+items/iron_helmet - 32x PNG has unknown colors
+items/iron_hoe - 32x PNG has unknown colors
+items/iron_ingot_mers.tga - inconsistent color mapping
+items/iron_nugget - 32x PNG has unknown colors
+items/iron_pickaxe - 32x PNG has unknown colors
+items/iron_shovel_mers.tga - inconsistent color mapping
+items/item_frame_mers.tga - inconsistent color mapping
+items/jungle_chest_boat - 32x PNG has unknown colors
+items/jungle_hanging_sign - 32x PNG has unknown colors
+items/kelp_mers.tga - inconsistent color mapping
+items/lantern - 32x PNG has unknown colors
+items/lead - 32x PNG has unknown colors
+items/leaf_litter_mers.tga - inconsistent color mapping
+items/leather - 32x PNG has unknown colors
+items/leather_chestplate_mers.tga - inconsistent color mapping
+items/lever - 32x PNG has unknown colors
+items/light_block_0 - 32x PNG has unknown colors
+items/light_block_1 - 32x PNG has unknown colors
+items/light_block_10 - 32x PNG has unknown colors
+items/light_block_11 - 32x PNG has unknown colors
+items/light_block_12 - 32x PNG has unknown colors
+items/light_block_13 - 32x PNG has unknown colors
+items/light_block_14 - 32x PNG has unknown colors
+items/light_block_15 - 32x PNG has unknown colors
+items/light_block_2 - 32x PNG has unknown colors
+items/light_block_3 - 32x PNG has unknown colors
+items/light_block_4 - 32x PNG has unknown colors
+items/light_block_5 - 32x PNG has unknown colors
+items/light_block_6 - 32x PNG has unknown colors
+items/light_block_7 - 32x PNG has unknown colors
+items/light_block_8 - 32x PNG has unknown colors
+items/light_block_9 - 32x PNG has unknown colors
+items/lodestonecompass_atlas - 32x PNG has unknown colors
+items/lodestonecompass_item - 32x PNG has unknown colors
+items/mace_mers.tga - inconsistent color mapping
+items/magma_cream_mers.tga - inconsistent color mapping
+items/mangrove_boat - 32x PNG has unknown colors
+items/mangrove_chest_boat - 32x PNG has unknown colors
+items/mangrove_door_mers.tga - inconsistent color mapping
+items/mangrove_hanging_sign - 32x PNG has unknown colors
+items/mangrove_propagule_mers.tga - inconsistent color mapping
+items/mangrove_sign - 32x PNG has unknown colors
+items/map_empty - 32x PNG has unknown colors
+items/map_filled - 32x PNG has unknown colors
+items/map_mansion - 32x PNG has unknown colors
+items/map_monument - 32x PNG has unknown colors
+items/map_nautilus - 32x PNG has unknown colors
+items/map_trial_chambers_mers.tga - inconsistent color mapping
+items/melon_mers.tga - inconsistent color mapping
+items/melon_speckled_mers.tga - inconsistent color mapping
+items/minecart_chest - 32x PNG has unknown colors
+items/minecart_command_block - 32x PNG has unknown colors
+items/minecart_furnace - 32x PNG has unknown colors
+items/minecart_hopper - 32x PNG has unknown colors
+items/minecart_normal_mers.tga - inconsistent color mapping
+items/minecart_tnt - 32x PNG has unknown colors
+items/miner_pottery_sherd_mers.tga - inconsistent color mapping
+items/mojang_banner_pattern_mers.tga - inconsistent color mapping
+items/mourner_pottery_sherd - 32x PNG has unknown colors
+items/mushroom_stew - 32x PNG has unknown colors
+items/music_disc_creator_mers.tga - inconsistent color mapping
+items/music_disc_creator_music_box_mers.tga - inconsistent color mapping
+items/music_disc_creator_music_box_mers.tga - inconsistent color mapping
+items/music_disc_precipice_mers.tga - inconsistent color mapping
+items/music_disc_relic - 32x PNG has unknown colors
+items/nautilus - 32x PNG has unknown colors
+items/netherbrick_mers.tga - inconsistent color mapping
+items/netherite_boots - 32x PNG has unknown colors
+items/netherite_helmet - 32x PNG has unknown colors
+items/netherite_hoe - 32x PNG has unknown colors
+items/netherite_sword - 32x PNG has unknown colors
+items/nether_wart_mers.tga - inconsistent color mapping
+items/oak_chest_boat - 32x PNG has unknown colors
+items/oak_hanging_sign - 32x PNG has unknown colors
+items/ominous_bottle_mers.tga - inconsistent color mapping
+items/ominous_trial_key_mers.tga - inconsistent color mapping
+items/oxidized_copper_door_mers.tga - inconsistent color mapping
+items/painting_mers.tga - inconsistent color mapping
+items/pale_oak_boat_mers.tga - inconsistent color mapping
+items/pale_oak_chest_boat - 32x PNG has unknown colors
+items/pale_oak_door_mers.tga - inconsistent color mapping
+items/pale_oak_hanging_sign_mers.tga - inconsistent color mapping
+items/pale_oak_sign_mers.tga - inconsistent color mapping
+items/paper - 32x PNG has unknown colors
+items/phantom_membrane - 32x PNG has unknown colors
+items/piglin_banner_pattern_mers.tga - inconsistent color mapping
+items/pink_petals_mers.tga - inconsistent color mapping
+items/pitcher_pod_mers.tga - inconsistent color mapping
+items/plenty_pottery_sherd_mers.tga - inconsistent color mapping
+items/potato_baked_mers.tga - inconsistent color mapping
+items/potato_poisonous_mers.tga - inconsistent color mapping
+items/potato_poisonous - 32x PNG has unknown colors
+items/potion_bottle_absorption_mers.tga - inconsistent color mapping
+items/potion_bottle_blindness - 32x PNG has unknown colors
+items/potion_bottle_confusion_mers.tga - inconsistent color mapping
+items/potion_bottle_damageBoost - 32x PNG has unknown colors
+items/potion_bottle_digSlowdown_mers.tga - inconsistent color mapping
+items/potion_bottle_digSpeed_mers.tga - inconsistent color mapping
+items/potion_bottle_drinkable - 32x PNG has unknown colors
+items/potion_bottle_empty - 32x PNG has unknown colors
+items/potion_bottle_fireResistance - 32x PNG has unknown colors
+items/potion_bottle_harm - 32x PNG has unknown colors
+items/potion_bottle_heal - 32x PNG has unknown colors
+items/potion_bottle_healthBoost_mers.tga - inconsistent color mapping
+items/potion_bottle_hunger_mers.tga - inconsistent color mapping
+items/potion_bottle_infested - 32x PNG has unknown colors
+items/potion_bottle_invisibility - 32x PNG has unknown colors
+items/potion_bottle_jump - 32x PNG has unknown colors
+items/potion_bottle_levitation - 32x PNG has unknown colors
+items/potion_bottle_lingering - 32x PNG has unknown colors
+items/potion_bottle_lingering_damageBoost - 32x PNG has unknown colors
+items/potion_bottle_lingering_empty - 32x PNG has unknown colors
+items/potion_bottle_lingering_fireResistance - 32x PNG has unknown colors
+items/potion_bottle_lingering_harm - 32x PNG has unknown colors
+items/potion_bottle_lingering_heal - 32x PNG has unknown colors
+items/potion_bottle_lingering_infested - 32x PNG has unknown colors
+items/potion_bottle_lingering_invisibility - 32x PNG has unknown colors
+items/potion_bottle_lingering_jump - 32x PNG has unknown colors
+items/potion_bottle_lingering_luck - 32x PNG has unknown colors
+items/potion_bottle_lingering_moveSlowdown - 32x PNG has unknown colors
+items/potion_bottle_lingering_moveSpeed - 32x PNG has unknown colors
+items/potion_bottle_lingering_nightVision - 32x PNG has unknown colors
+items/potion_bottle_lingering_oozing_mers.tga - inconsistent color mapping
+items/potion_bottle_lingering_poison - 32x PNG has unknown colors
+items/potion_bottle_lingering_regeneration - 32x PNG has unknown colors
+items/potion_bottle_lingering_slowFall - 32x PNG has unknown colors
+items/potion_bottle_lingering_turtleMaster - 32x PNG has unknown colors
+items/potion_bottle_lingering_waterBreathing - 32x PNG has unknown colors
+items/potion_bottle_lingering_weakness - 32x PNG has unknown colors
+items/potion_bottle_lingering_weaving - 32x PNG has unknown colors
+items/potion_bottle_lingering_windCharged - 32x PNG has unknown colors
+items/potion_bottle_lingering_wither - 32x PNG has unknown colors
+items/potion_bottle_moveSlowdown - 32x PNG has unknown colors
+items/potion_bottle_moveSpeed - 32x PNG has unknown colors
+items/potion_bottle_nightVision - 32x PNG has unknown colors
+items/potion_bottle_oozing_mers.tga - inconsistent color mapping
+items/potion_bottle_poison - 32x PNG has unknown colors
+items/potion_bottle_regeneration - 32x PNG has unknown colors
+items/potion_bottle_resistance - 32x PNG has unknown colors
+items/potion_bottle_saturation - 32x PNG has unknown colors
+items/potion_bottle_slowFall - 32x PNG has unknown colors
+items/potion_bottle_splash - 32x PNG has unknown colors
+items/potion_bottle_splash_absorption_mers.tga - inconsistent color mapping
+items/potion_bottle_splash_blindness - 32x PNG has unknown colors
+items/potion_bottle_splash_confusion_mers.tga - inconsistent color mapping
+items/potion_bottle_splash_damageBoost - 32x PNG has unknown colors
+items/potion_bottle_splash_digSlowdown_mers.tga - inconsistent color mapping
+items/potion_bottle_splash_digSpeed_mers.tga - inconsistent color mapping
+items/potion_bottle_splash_fireResistance - 32x PNG has unknown colors
+items/potion_bottle_splash_harm - 32x PNG has unknown colors
+items/potion_bottle_splash_heal - 32x PNG has unknown colors
+items/potion_bottle_splash_healthBoost_mers.tga - inconsistent color mapping
+items/potion_bottle_splash_hunger_mers.tga - inconsistent color mapping
+items/potion_bottle_splash_infested - 32x PNG has unknown colors
+items/potion_bottle_splash_invisibility - 32x PNG has unknown colors
+items/potion_bottle_splash_jump - 32x PNG has unknown colors
+items/potion_bottle_splash_levitation - 32x PNG has unknown colors
+items/potion_bottle_splash_moveSlowdown - 32x PNG has unknown colors
+items/potion_bottle_splash_moveSpeed - 32x PNG has unknown colors
+items/potion_bottle_splash_nightVision - 32x PNG has unknown colors
+items/potion_bottle_splash_oozing_mers.tga - inconsistent color mapping
+items/potion_bottle_splash_poison - 32x PNG has unknown colors
+items/potion_bottle_splash_regeneration - 32x PNG has unknown colors
+items/potion_bottle_splash_resistance - 32x PNG has unknown colors
+items/potion_bottle_splash_saturation - 32x PNG has unknown colors
+items/potion_bottle_splash_slowFall - 32x PNG has unknown colors
+items/potion_bottle_splash_turtleMaster - 32x PNG has unknown colors
+items/potion_bottle_splash_waterBreathing - 32x PNG has unknown colors
+items/potion_bottle_splash_weakness - 32x PNG has unknown colors
+items/potion_bottle_splash_weaving - 32x PNG has unknown colors
+items/potion_bottle_splash_windCharged - 32x PNG has unknown colors
+items/potion_bottle_splash_wither - 32x PNG has unknown colors
+items/potion_bottle_turtleMaster - 32x PNG has unknown colors
+items/potion_bottle_waterBreathing - 32x PNG has unknown colors
+items/potion_bottle_weakness - 32x PNG has unknown colors
+items/potion_bottle_weaving - 32x PNG has unknown colors
+items/potion_bottle_windCharged - 32x PNG has unknown colors
+items/potion_bottle_wither - 32x PNG has unknown colors
+items/potion_overlay - 32x PNG has unknown colors
+items/prismarine_crystals - 32x PNG has unknown colors
+items/prismarine_shard_mers.tga - inconsistent color mapping
+items/prize_pottery_sherd_mers.tga - inconsistent color mapping
+items/pumpkin_pie_mers.tga - inconsistent color mapping
+items/quiver - missing 32x PNG
+items/rabbit_foot - 32x PNG has unknown colors
+items/rabbit_hide_mers.tga - inconsistent color mapping
+items/rabbit_stew - 32x PNG has unknown colors
+items/raw_copper_mers.tga - inconsistent color mapping
+items/raw_iron_mers.tga - inconsistent color mapping
+items/record_11 - 32x PNG has unknown colors
+items/record_13_mers.tga - inconsistent color mapping
+items/record_5_mers.tga - inconsistent color mapping
+items/record_blocks - 32x PNG has unknown colors
+items/record_cat_mers.tga - inconsistent color mapping
+items/record_chirp_mers.tga - inconsistent color mapping
+items/record_far_mers.tga - inconsistent color mapping
+items/record_mall_mers.tga - inconsistent color mapping
+items/record_mellohi_mers.tga - inconsistent color mapping
+items/record_otherside_mers.tga - inconsistent color mapping
+items/record_pigstep_mers.tga - inconsistent color mapping
+items/record_stal_mers.tga - inconsistent color mapping
+items/record_strad_mers.tga - inconsistent color mapping
+items/record_wait_mers.tga - inconsistent color mapping
+items/record_ward_mers.tga - inconsistent color mapping
+items/recovery_compass_atlas - 32x PNG has unknown colors
+items/recovery_compass_item - 32x PNG has unknown colors
+items/redstone_dust_mers.tga - inconsistent color mapping
+items/reeds_mers.tga - inconsistent color mapping
+items/repeater - 32x PNG has unknown colors
+items/resin_brick_mers.tga - inconsistent color mapping
+items/resin_clump_mers.tga - inconsistent color mapping
+items/rotten_flesh_mers.tga - inconsistent color mapping
+items/ruby - missing 32x PNG
+items/saddle - 32x PNG has unknown colors
+items/scrape_pottery_sherd_mers.tga - inconsistent color mapping
+items/sea_pickle - 32x PNG has unknown colors
+items/seeds_beetroot - 32x PNG has unknown colors
+items/seeds_melon - 32x PNG has unknown colors
+items/seeds_pumpkin_mers.tga - inconsistent color mapping
+items/sheaf_pottery_sherd_mers.tga - inconsistent color mapping
+items/shelter_pottery_sherd_mers.tga - inconsistent color mapping
+items/shulker_shell_mers.tga - inconsistent color mapping
+items/sign - 32x PNG has unknown colors
+items/sign_acacia - 32x PNG has unknown colors
+items/sign_birch - 32x PNG has unknown colors
+items/sign_crimson - 32x PNG has unknown colors
+items/sign_darkoak - 32x PNG has unknown colors
+items/sign_jungle - 32x PNG has unknown colors
+items/sign_spruce - 32x PNG has unknown colors
+items/sign_warped - 32x PNG has unknown colors
+items/skull_banner_pattern_mers.tga - inconsistent color mapping
+items/skull_pottery_sherd_mers.tga - inconsistent color mapping
+items/slimeball_mers.tga - inconsistent color mapping
+items/sniffer_egg - 32x PNG has unknown colors
+items/snort_pottery_sherd_mers.tga - inconsistent color mapping
+items/snowball - 32x PNG has unknown colors
+items/soul_campfire_mers.tga - inconsistent color mapping
+items/soul_lantern - 32x PNG has unknown colors
+items/spawn_egg - 32x PNG has unknown colors
+items/spawn_egg_overlay - 32x PNG has unknown colors
+items/spider_eye - 32x PNG has unknown colors
+items/spider_eye_fermented - 32x PNG has unknown colors
+items/spruce_chest_boat - 32x PNG has unknown colors
+items/spruce_hanging_sign - 32x PNG has unknown colors
+items/spyglass_mers.tga - inconsistent color mapping
+items/stick - 32x PNG has unknown colors
+items/stone_axe_mers.tga - inconsistent color mapping
+items/stone_hoe - 32x PNG has unknown colors
+items/stone_pickaxe - 32x PNG has unknown colors
+items/stone_shovel_mers.tga - inconsistent color mapping
+items/stone_sword_mers.tga - inconsistent color mapping
+items/sugar_mers.tga - inconsistent color mapping
+items/suspicious_stew - 32x PNG has unknown colors
+items/sweet_berries_mers.tga - inconsistent color mapping
+items/tipped_arrow_base_mers.tga - inconsistent color mapping
+items/tipped_arrow_fireres_mers.tga - inconsistent color mapping
+items/tipped_arrow_harm_mers.tga - inconsistent color mapping
+items/tipped_arrow_head_mers.tga - inconsistent color mapping
+items/tipped_arrow_healing_mers.tga - inconsistent color mapping
+items/tipped_arrow_infested_mers.tga - inconsistent color mapping
+items/tipped_arrow_invisibility_mers.tga - inconsistent color mapping
+items/tipped_arrow_leaping_mers.tga - inconsistent color mapping
+items/tipped_arrow_luck_mers.tga - inconsistent color mapping
+items/tipped_arrow_mers.tga - inconsistent color mapping
+items/tipped_arrow_nightvision_mers.tga - inconsistent color mapping
+items/tipped_arrow_oozing_mers.tga - inconsistent color mapping
+items/tipped_arrow_poison_mers.tga - inconsistent color mapping
+items/tipped_arrow_regen_mers.tga - inconsistent color mapping
+items/tipped_arrow_slowfalling_mers.tga - inconsistent color mapping
+items/tipped_arrow_slow_mers.tga - inconsistent color mapping
+items/tipped_arrow_strength_mers.tga - inconsistent color mapping
+items/tipped_arrow_swift_mers.tga - inconsistent color mapping
+items/tipped_arrow_turtlemaster_mers.tga - inconsistent color mapping
+items/tipped_arrow_waterbreathing_mers.tga - inconsistent color mapping
+items/tipped_arrow_weakness_mers.tga - inconsistent color mapping
+items/tipped_arrow_weaving_mers.tga - inconsistent color mapping
+items/tipped_arrow_windCharged_mers.tga - inconsistent color mapping
+items/tipped_arrow_wither_mers.tga - inconsistent color mapping
+items/tipped_arrow_base - 32x PNG has unknown colors
+items/tipped_arrow_fireres - 32x PNG has unknown colors
+items/tipped_arrow_harm - 32x PNG has unknown colors
+items/tipped_arrow_head - 32x PNG has unknown colors
+items/tipped_arrow_healing - 32x PNG has unknown colors
+items/tipped_arrow_infested - 32x PNG has unknown colors
+items/tipped_arrow_invisibility - 32x PNG has unknown colors
+items/tipped_arrow_leaping - 32x PNG has unknown colors
+items/tipped_arrow_luck - 32x PNG has unknown colors
+items/tipped_arrow_nightvision - 32x PNG has unknown colors
+items/tipped_arrow_oozing - 32x PNG has unknown colors
+items/tipped_arrow_poison - 32x PNG has unknown colors
+items/tipped_arrow_regen - 32x PNG has unknown colors
+items/tipped_arrow_slow - 32x PNG has unknown colors
+items/tipped_arrow_slowfalling - 32x PNG has unknown colors
+items/tipped_arrow_strength - 32x PNG has unknown colors
+items/tipped_arrow_swift - 32x PNG has unknown colors
+items/tipped_arrow_turtlemaster - 32x PNG has unknown colors
+items/tipped_arrow_waterbreathing - 32x PNG has unknown colors
+items/tipped_arrow_weakness - 32x PNG has unknown colors
+items/tipped_arrow_weaving - 32x PNG has unknown colors
+items/tipped_arrow_windCharged - 32x PNG has unknown colors
+items/tipped_arrow_wither - 32x PNG has unknown colors
+items/torchflower_seeds - 32x PNG has unknown colors
+items/totem_mers.tga - inconsistent color mapping
+items/trial_key_mers.tga - inconsistent color mapping
+items/turtle_helmet - 32x PNG has unknown colors
+items/turtle_shell_piece - 32x PNG has unknown colors
+items/villagebell - 32x PNG has unknown colors
+items/ward_armor_trim_smithing_template - 32x PNG has unknown colors
+items/warped_door - 32x PNG has unknown colors
+items/warped_fungus_on_a_stick_mers.tga - inconsistent color mapping
+items/warped_hanging_sign - 32x PNG has unknown colors
+items/watch_atlas - 32x PNG has unknown colors
+items/wayfinder_armor_trim_smithing_template - 32x PNG has unknown colors
+items/weathered_copper_door_mers.tga - inconsistent color mapping
+items/wheat_mers.tga - inconsistent color mapping
+items/wildflowers_mers.tga - inconsistent color mapping
+items/wolf_armor_dyed.tga - inconsistent color mapping
+items/wolf_armor_dyed_mers.tga - inconsistent color mapping
+items/wolf_armor_mers.tga - inconsistent color mapping
+items/wood_axe_mers.tga - inconsistent color mapping
+items/wood_hoe - 32x PNG has unknown colors
+items/wood_pickaxe - 32x PNG has unknown colors
+items/wood_shovel_mers.tga - inconsistent color mapping
+items/wood_sword_mers.tga - inconsistent color mapping
+items\candles/candle_mers.tga - inconsistent color mapping
+items\candles/white_candle_mers.tga - inconsistent color mapping
+items\candles/yellow_candle_mers.tga - inconsistent color mapping
+items\harness/harness_black - 32x PNG has unknown colors
+items\harness/harness_blue - 32x PNG has unknown colors
+items\harness/harness_brown - 32x PNG has unknown colors
+items\harness/harness_cyan - 32x PNG has unknown colors
+items\harness/harness_gray - 32x PNG has unknown colors
+items\harness/harness_green - 32x PNG has unknown colors
+items\harness/harness_light_blue - 32x PNG has unknown colors
+items\harness/harness_light_gray - 32x PNG has unknown colors
+items\harness/harness_lime - 32x PNG has unknown colors
+items\harness/harness_magenta - 32x PNG has unknown colors
+items\harness/harness_orange - 32x PNG has unknown colors
+items\harness/harness_pink - 32x PNG has unknown colors
+items\harness/harness_purple - 32x PNG has unknown colors
+items\harness/harness_red - 32x PNG has unknown colors
+items\harness/harness_white - 32x PNG has unknown colors
+items\harness/harness_yellow - 32x PNG has unknown colors
+items\spawn_eggs/spawn_egg_agent_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_allay_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_armadillo_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_axolotl_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_bat_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_bee_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_bogged_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_breeze_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_camel_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_cat_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_cave_spider_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_chicken_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_cod - missing 32x PNG
+items\spawn_eggs/spawn_egg_cow_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_creaking_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_creeper_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_dolphin - missing 32x PNG
+items\spawn_eggs/spawn_egg_donkey - missing 32x PNG
+items\spawn_eggs/spawn_egg_drowned_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_elder_guardian - missing 32x PNG
+items\spawn_eggs/spawn_egg_enderman - missing 32x PNG
+items\spawn_eggs/spawn_egg_ender_dragon - missing 32x PNG
+items\spawn_eggs/spawn_egg_fox_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_ghast - missing 32x PNG
+items\spawn_eggs/spawn_egg_glow_squid - missing 32x PNG
+items\spawn_eggs/spawn_egg_goat_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_guardian - missing 32x PNG
+items\spawn_eggs/spawn_egg_happy_ghast - missing 32x PNG
+items\spawn_eggs/spawn_egg_hoglin - missing 32x PNG
+items\spawn_eggs/spawn_egg_horse - missing 32x PNG
+items\spawn_eggs/spawn_egg_husk - missing 32x PNG
+items\spawn_eggs/spawn_egg_iron_golem - missing 32x PNG
+items\spawn_eggs/spawn_egg_llama - missing 32x PNG
+items\spawn_eggs/spawn_egg_magma_cube - missing 32x PNG
+items\spawn_eggs/spawn_egg_mooshroom_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_mule - missing 32x PNG
+items\spawn_eggs/spawn_egg_ocelot_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_panda - missing 32x PNG
+items\spawn_eggs/spawn_egg_parrot_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_pig - 32x PNG has unknown colors
+items\spawn_eggs/spawn_egg_piglin - missing 32x PNG
+items\spawn_eggs/spawn_egg_piglin_brute - missing 32x PNG
+items\spawn_eggs/spawn_egg_polar_bear_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_rabbit_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_ravager - missing 32x PNG
+items\spawn_eggs/spawn_egg_salmon_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_sheep - 32x PNG has unknown colors
+items\spawn_eggs/spawn_egg_shulker_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_silverfish_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_skeleton_horse_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_skeleton_horse - missing 32x PNG
+items\spawn_eggs/spawn_egg_snow_golem - missing 32x PNG
+items\spawn_eggs/spawn_egg_squid - missing 32x PNG
+items\spawn_eggs/spawn_egg_stray - missing 32x PNG
+items\spawn_eggs/spawn_egg_strider_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_tadpole_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_trader_llama - missing 32x PNG
+items\spawn_eggs/spawn_egg_tropicalfish_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_turtle - missing 32x PNG
+items\spawn_eggs/spawn_egg_vex_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_villager - 32x PNG has unknown colors
+items\spawn_eggs/spawn_egg_wandering_trader - 32x PNG has unknown colors
+items\spawn_eggs/spawn_egg_warden_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_witch_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_wither - missing 32x PNG
+items\spawn_eggs/spawn_egg_wither_skeleton - missing 32x PNG
+items\spawn_eggs/spawn_egg_wolf - missing 32x PNG
+items\spawn_eggs/spawn_egg_zoglin - missing 32x PNG
+items\spawn_eggs/spawn_egg_zombie_horse_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_zombie_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_zombie_villager_mers.tga - inconsistent color mapping
+items\spawn_eggs/spawn_egg_zombie_horse - missing 32x PNG
+items\spawn_eggs/spawn_egg_zombie_villager - 32x PNG has unknown colors
+items\spawn_eggs/spawn_egg_zombified_piglin - missing 32x PNG
+map/player_icon_background - missing 32x PNG
+map/trial_chambers - 32x PNG has unknown colors
+misc/enchanted_actor_glint - missing 32x PNG
+misc/enchanted_item_glint - missing 32x PNG
+misc/missing_texture - missing 32x PNG
+models\armor/chain_1 - 32x PNG has unknown colors
+models\armor/chain_2 - 32x PNG has unknown colors
+models\armor/cloth_1 - 32x PNG has unknown colors
+models\armor/cloth_2 - 32x PNG has unknown colors
+models\armor/diamond_2 - 32x PNG has unknown colors
+models\armor/elytra_mers.tga - inconsistent color mapping
+models\armor/iron_2 - 32x PNG has unknown colors
+models\armor/turtle_1_mers.tga - inconsistent color mapping
+painting/backyard - 32x PNG has unknown colors
+painting/baroque - 32x PNG has unknown colors
+painting/bouquet - 32x PNG has unknown colors
+painting/cavebird - 32x PNG has unknown colors
+painting/changing - 32x PNG has unknown colors
+painting/cotan - 32x PNG has unknown colors
+painting/endboss - 32x PNG has unknown colors
+painting/fern - 32x PNG has unknown colors
+painting/finding - 32x PNG has unknown colors
+painting/humble - 32x PNG has unknown colors
+painting/kz - 32x PNG has unknown colors
+painting/lowmist - 32x PNG has unknown colors
+painting/meditative_mers.tga - inconsistent color mapping
+painting/orb - 32x PNG has unknown colors
+painting/owlemons - 32x PNG has unknown colors
+painting/passage - 32x PNG has unknown colors
+painting/pond - 32x PNG has unknown colors
+painting/prairie_ride - 32x PNG has unknown colors
+painting/sunflowers - 32x PNG has unknown colors
+painting/tides - 32x PNG has unknown colors
+painting/unpacked_mers.tga - inconsistent color mapping
+particle/biome_tinted_leaves_atlas_mers.tga - inconsistent color mapping
+particle/campfire_smoke - 32x PNG has unknown colors
+particle/cherry_petal_atlas - 32x PNG has unknown colors
+particle/gust - 32x PNG has unknown colors
+particle/ominous_spawning - missing 32x PNG
+particle/pale_oak_leaves_atlas_mers.tga - inconsistent color mapping
+particle/particles - 32x PNG has unknown colors
+particle/pixel - missing 32x PNG
+particle/sculk_charge_pop_mers.tga - mismatched size
+particle/sculk_soul_mers.tga - inconsistent color mapping
+particle/sonic_explosion - 32x PNG has unknown colors
+particle/vault_connection - missing 32x PNG
+particles/trial_spawner_ominous_atlas_mers.tga - inconsistent color mapping
+persona_thumbnails/basic_clap_thumbnail_0 - missing 32x PNG
+persona_thumbnails/communication_follow_me_thumbnail_0 - missing 32x PNG
+persona_thumbnails/communication_point_thumbnail_0 - missing 32x PNG
+persona_thumbnails/overhead_wave_thumbnail_0 - missing 32x PNG
+trims/dune - 32x PNG has unknown colors
+trims/dune_leggings - 32x PNG has unknown colors
+trims\color_palettes/amethyst - missing 32x PNG
+trims\color_palettes/copper - missing 32x PNG
+trims\color_palettes/diamond - missing 32x PNG
+trims\color_palettes/diamond_darker - missing 32x PNG
+trims\color_palettes/emerald - missing 32x PNG
+trims\color_palettes/gold - missing 32x PNG
+trims\color_palettes/gold_darker - missing 32x PNG
+trims\color_palettes/iron - missing 32x PNG
+trims\color_palettes/iron_darker - missing 32x PNG
+trims\color_palettes/lapis - missing 32x PNG
+trims\color_palettes/netherite - missing 32x PNG
+trims\color_palettes/netherite_darker - missing 32x PNG
+trims\color_palettes/quartz - missing 32x PNG
+trims\color_palettes/redstone - missing 32x PNG
+trims\color_palettes/resin - missing 32x PNG
+trims\color_palettes/trim_palette - missing 32x PNG
