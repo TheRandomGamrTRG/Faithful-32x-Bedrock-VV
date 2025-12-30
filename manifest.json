@@ -4,13 +4,13 @@
     "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
     "min_engine_version": [
       1,
-      17,
-      0
+      21,
+      130
     ],
     "name": "Faithful 32x - Vibrant Visual Development",
     "uuid": "3001b1c9-52c4-4b86-beec-988c20496bb8",
     "version": [
-      2,
+      1,
       0,
       0
     ]
@@ -19,7 +19,7 @@
       "authors": [ "Vattic & Faithful Team" ],
       "license": "https://faithfulpack.net/license",
       "url": "https://faithfulpack.net/"
-},
+  },
   "modules": [
     {
       "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
@@ -31,5 +31,10 @@
         1
       ]
     }
-  ]
-}
+  ], 
+  "capabilities": [
+    "pbr"
+   ]
+ }
+
+
