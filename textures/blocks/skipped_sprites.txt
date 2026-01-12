@@ -1,0 +1,538 @@
+TGA files created: 822
+TGA files skipped: 535
+
+./amethyst_cluster_mers.tga - inconsistent color mapping
+./anvil_top_damaged_1_mers.tga - inconsistent color mapping
+./anvil_top_damaged_2_mers.tga - inconsistent color mapping
+./azalea_leaves_flowers.tga - inconsistent color mapping
+./azalea_leaves_flowers_mers.tga - inconsistent color mapping
+./azalea_leaves_flowers_opaque_mers.tga - inconsistent color mapping
+./azalea_leaves_flowers - 32x PNG has unknown colors (outside tolerance)
+./azalea_leaves_flowers_opaque - 32x PNG has unknown colors (outside tolerance)
+./azalea_leaves_opaque_mers.tga - inconsistent color mapping
+./azalea_plant_mers.tga - inconsistent color mapping
+./azalea_side_mers.tga - inconsistent color mapping
+./bamboo_block - 32x PNG has unknown colors (outside tolerance)
+./bamboo_fence_gate_mers.tga - inconsistent color mapping
+./bamboo_leaf - 32x PNG has unknown colors (outside tolerance)
+./bamboo_singleleaf - 32x PNG has unknown colors (outside tolerance)
+./bamboo_small_leaf - 32x PNG has unknown colors (outside tolerance)
+./barrel_top_open_mers.tga - inconsistent color mapping
+./barrel_top_open_mers.tga - inconsistent color mapping
+./barrier - 32x PNG has unknown colors (outside tolerance)
+./beehive_front_honey_mers.tga - inconsistent color mapping
+./beetroots_stage_0_mers.tga - inconsistent color mapping
+./beetroots_stage_1 - 32x PNG has unknown colors (outside tolerance)
+./beetroots_stage_2_mers.tga - inconsistent color mapping
+./beetroots_stage_3_mers.tga - inconsistent color mapping
+./bee_nest_front_honey_mers.tga - inconsistent color mapping
+./bell_bottom - 32x PNG has unknown colors (outside tolerance)
+./bell_side - 32x PNG has unknown colors (outside tolerance)
+./bell_top - 32x PNG has unknown colors (outside tolerance)
+./big_dripleaf_side1_mers.tga - inconsistent color mapping
+./big_dripleaf_side2_mers.tga - inconsistent color mapping
+./big_dripleaf_stem_mers.tga - inconsistent color mapping
+./big_dripleaf_top_mers.tga - inconsistent color mapping
+./birch_shelf - 32x PNG has unknown colors (outside tolerance)
+./birch_trapdoor - 32x PNG has unknown colors (outside tolerance)
+./blackstone_top_mers.tga - inconsistent color mapping
+./blast_furnace_front_on_mers.tga - inconsistent color mapping
+./bookshelf_mers.tga - inconsistent color mapping
+./brewing_stand_base_mers.tga - inconsistent color mapping
+./build_allow - 32x PNG has unknown colors (outside tolerance)
+./build_deny - 32x PNG has unknown colors (outside tolerance)
+./bush_mers.tga - inconsistent color mapping
+./cake_top_mers.tga - inconsistent color mapping
+./calibrated_sculk_sensor_amethyst - 32x PNG has unknown colors (outside tolerance)
+./calibrated_sculk_sensor_input_side_mers.tga - inconsistent color mapping
+./calibrated_sculk_sensor_top_mers.tga - inconsistent color mapping
+./campfire_log_lit_mers.tga - mismatched size
+./campfire_log_mers.tga - mismatched size
+./campfire_log_lit_mers.tga - mismatched size
+./carried_waterlily_mers.tga - inconsistent color mapping
+./carrots_stage_0_mers.tga - inconsistent color mapping
+./carrots_stage_1_mers.tga - inconsistent color mapping
+./carrots_stage_2_mers.tga - inconsistent color mapping
+./carrots_stage_3_mers.tga - inconsistent color mapping
+./cartography_table_top_mers.tga - inconsistent color mapping
+./cauldron_bottom - 32x PNG has unknown colors (outside tolerance)
+./cauldron_water - 32x PNG has unknown colors (outside tolerance)
+./cauldron_water_placeholder - 32x PNG has unknown colors (outside tolerance)
+./cave_vines_body_berries_mers.tga - inconsistent color mapping
+./cave_vines_head_berries_mers.tga - inconsistent color mapping
+./chain1 - 32x PNG has unknown colors (outside tolerance)
+./chain2 - 32x PNG has unknown colors (outside tolerance)
+./chain_command_block_back - 32x PNG has unknown colors (outside tolerance)
+./chain_command_block_back_mipmap_mers.tga - inconsistent color mapping
+./chain_command_block_conditional - 32x PNG has unknown colors (outside tolerance)
+./chain_command_block_conditional_mipmap - 32x PNG has unknown colors (outside tolerance)
+./chain_command_block_front - 32x PNG has unknown colors (outside tolerance)
+./chain_command_block_front_mipmap - 32x PNG has unknown colors (outside tolerance)
+./chain_command_block_side - 32x PNG has unknown colors (outside tolerance)
+./chain_command_block_side_mipmap - 32x PNG has unknown colors (outside tolerance)
+./cherry_leaves - 32x PNG has unknown colors (outside tolerance)
+./cherry_leaves_opaque_mers.tga - inconsistent color mapping
+./cherry_sapling - 32x PNG has unknown colors (outside tolerance)
+./chest_front - 32x PNG has unknown colors (outside tolerance)
+./chest_top - 32x PNG has unknown colors (outside tolerance)
+./chiseled_tuff_bricks_mers.tga - inconsistent color mapping
+./chiseled_tuff_bricks_top_mers.tga - inconsistent color mapping
+./chiseled_tuff_top_mers.tga - inconsistent color mapping
+./chiseled_tuff_bricks_top_mers.tga - inconsistent color mapping
+./chorus_flower_dead_mers.tga - inconsistent color mapping
+./cobblestone_mossy_mers.tga - inconsistent color mapping
+./cobblestone_mossy - 32x PNG has unknown colors (outside tolerance)
+./cocoa_stage_2 - 32x PNG has unknown colors (outside tolerance)
+./command_block - 32x PNG has unknown colors (outside tolerance)
+./command_block_back_mipmap_mers.tga - mismatched size
+./command_block_back_mipmap - 32x PNG has unknown colors (outside tolerance)
+./command_block_conditional_mipmap_mers.tga - mismatched size
+./command_block_front_mipmap_mers.tga - mismatched size
+./command_block_side_mipmap_mers.tga - mismatched size
+./composter_bottom_mers.tga - inconsistent color mapping
+./composter_side_mers.tga - inconsistent color mapping
+./composter_top_mers.tga - inconsistent color mapping
+./compost_ready_mers.tga - inconsistent color mapping
+./composter_side - 32x PNG has unknown colors (outside tolerance)
+./compost_ready - 32x PNG has unknown colors (outside tolerance)
+./concrete_blue_mers.tga - inconsistent color mapping
+./concrete_brown_mers.tga - inconsistent color mapping
+./concrete_cyan_mers.tga - inconsistent color mapping
+./concrete_green_mers.tga - inconsistent color mapping
+./concrete_light_blue_mers.tga - inconsistent color mapping
+./concrete_lime_mers.tga - inconsistent color mapping
+./concrete_magenta_mers.tga - inconsistent color mapping
+./concrete_orange_mers.tga - inconsistent color mapping
+./concrete_pink_mers.tga - inconsistent color mapping
+./conduit_base - 32x PNG has unknown colors (outside tolerance)
+./conduit_cage - 32x PNG has unknown colors (outside tolerance)
+./conduit_open - 32x PNG has unknown colors (outside tolerance)
+./copper_bulb_lit_mers.tga - inconsistent color mapping
+./copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+./copper_bulb_powered_mers.tga - inconsistent color mapping
+./copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+./copper_bulb_lit_powered - 32x PNG has unknown colors (outside tolerance)
+./copper_bulb_powered - 32x PNG has unknown colors (outside tolerance)
+./copper_door_top - 32x PNG has unknown colors (outside tolerance)
+./copper_torch_mers.tga - inconsistent color mapping
+./coral_fan_blue_dead - 32x PNG has unknown colors (outside tolerance)
+./coral_fan_pink_dead - 32x PNG has unknown colors (outside tolerance)
+./crafter_east_crafting_mers.tga - inconsistent color mapping
+./crafter_north_crafting_mers.tga - inconsistent color mapping
+./crafter_top_triggered_mers.tga - inconsistent color mapping
+./crafter_west_crafting_mers.tga - inconsistent color mapping
+./crafting_table_front - 32x PNG has unknown colors (outside tolerance)
+./crafting_table_side - 32x PNG has unknown colors (outside tolerance)
+./crafting_table_top - 32x PNG has unknown colors (outside tolerance)
+./crimson_roots_mers.tga - inconsistent color mapping
+./crimson_roots_pot_mers.tga - inconsistent color mapping
+./crimson_roots_pot_mers.tga - inconsistent color mapping
+./deadbush_mers.tga - inconsistent color mapping
+./dirt_podzol_side_mers.tga - inconsistent color mapping
+./dirt_podzol_top_mers.tga - inconsistent color mapping
+./dirt_with_roots_mers.tga - inconsistent color mapping
+./dirt_podzol_side - 32x PNG has unknown colors (outside tolerance)
+./door_acacia_lower_mers.tga - inconsistent color mapping
+./door_acacia_upper - 32x PNG has unknown colors (outside tolerance)
+./door_dark_oak_lower - 32x PNG has unknown colors (outside tolerance)
+./door_dark_oak_upper - 32x PNG has unknown colors (outside tolerance)
+./door_iron_lower - 32x PNG has unknown colors (outside tolerance)
+./door_iron_upper_mers.tga - inconsistent color mapping
+./double_plant_fern_carried - 32x PNG has unknown colors (outside tolerance)
+./double_plant_grass_carried - 32x PNG has unknown colors (outside tolerance)
+./double_plant_paeonia_bottom - 32x PNG has unknown colors (outside tolerance)
+./double_plant_paeonia_top - 32x PNG has unknown colors (outside tolerance)
+./double_plant_rose_bottom_mers.tga - inconsistent color mapping
+./double_plant_sunflower_back_mers.tga - inconsistent color mapping
+./double_plant_sunflower_bottom_mers.tga - inconsistent color mapping
+./double_plant_sunflower_front_mers.tga - inconsistent color mapping
+./dragon_egg_mers.tga - inconsistent color mapping
+./dried_ghast_state_2_back_mers.tga - inconsistent color mapping
+./dried_kelp_top_mers.tga - inconsistent color mapping
+./enchanting_table_top - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper_bulb - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper_bulb_lit - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper_bulb_lit_powered - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper_bulb_powered - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper_door_top - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper_grate - 32x PNG has unknown colors (outside tolerance)
+./exposed_copper_trapdoor - 32x PNG has unknown colors (outside tolerance)
+./firefly_bush_firefly_mers.tga - mismatched size
+./fire_0 - 32x PNG has unknown colors (outside tolerance)
+./fire_0_placeholder - 32x PNG has unknown colors (outside tolerance)
+./fire_1 - 32x PNG has unknown colors (outside tolerance)
+./fire_1_placeholder - 32x PNG has unknown colors (outside tolerance)
+./fletcher_table_side1_mers.tga - inconsistent color mapping
+./fletcher_table_side2_mers.tga - inconsistent color mapping
+./fletcher_table_top_mers.tga - inconsistent color mapping
+./flowering_azalea_side_mers.tga - inconsistent color mapping
+./flower_allium_mers.tga - inconsistent color mapping
+./flower_blue_orchid_mers.tga - inconsistent color mapping
+./flower_cornflower_mers.tga - inconsistent color mapping
+./flower_dandelion_mers.tga - inconsistent color mapping
+./flower_houstonia_mers.tga - inconsistent color mapping
+./flower_lily_of_the_valley - 32x PNG has unknown colors (outside tolerance)
+./flower_oxeye_daisy_mers.tga - inconsistent color mapping
+./flower_pot - 32x PNG has unknown colors (outside tolerance)
+./flower_rose_mers.tga - inconsistent color mapping
+./flower_tulip_orange - 32x PNG has unknown colors (outside tolerance)
+./flower_tulip_pink - 32x PNG has unknown colors (outside tolerance)
+./flower_tulip_red - 32x PNG has unknown colors (outside tolerance)
+./flower_tulip_white - 32x PNG has unknown colors (outside tolerance)
+./flower_wither_rose_mers.tga - inconsistent color mapping
+./frosted_ice_1 - 32x PNG has unknown colors (outside tolerance)
+./frosted_ice_2 - 32x PNG has unknown colors (outside tolerance)
+./frosted_ice_3 - 32x PNG has unknown colors (outside tolerance)
+./furnace_front_off_mers.tga - inconsistent color mapping
+./furnace_front_on_mers.tga - inconsistent color mapping
+./glass_blue - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_black - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_blue - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_brown - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_cyan - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_gray - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_green - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_light_blue - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_lime - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_magenta - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_orange - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_pink - 32x PNG has unknown colors (outside tolerance)
+./glass_pane_top_purple - 32x PNG has unknown colors (outside tolerance)
+./glass_red - 32x PNG has unknown colors (outside tolerance)
+./glazed_terracotta_green - 32x PNG has unknown colors (outside tolerance)
+./glazed_terracotta_purple - 32x PNG has unknown colors (outside tolerance)
+./gold_block - 32x PNG has unknown colors (outside tolerance)
+./grass_carried - 32x PNG has unknown colors (outside tolerance)
+./grass_side_snowed_mers.tga - inconsistent color mapping
+./hanging_roots_mers.tga - inconsistent color mapping
+./hardened_clay_stained_black - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_blue - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_brown - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_cyan - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_gray - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_green - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_light_blue - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_lime - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_magenta - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_orange - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_pink - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_purple - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_red - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_silver - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_white - 32x PNG has unknown colors (outside tolerance)
+./hardened_clay_stained_yellow - 32x PNG has unknown colors (outside tolerance)
+./hay_block_side_mers.tga - inconsistent color mapping
+./hopper_top - 32x PNG has unknown colors (outside tolerance)
+./ice_packed_mers.tga - inconsistent color mapping
+./lantern - 32x PNG has unknown colors (outside tolerance)
+./large_amethyst_bud_mers.tga - inconsistent color mapping
+./lava_flow_normal.tga - inconsistent color mapping
+./lava_placeholder - 32x PNG has unknown colors (outside tolerance)
+./lava_still_normal.tga - inconsistent color mapping
+./leaves_acacia_opaque - 32x PNG has unknown colors (outside tolerance)
+./leaves_big_oak_opaque - 32x PNG has unknown colors (outside tolerance)
+./leaves_jungle_opaque - 32x PNG has unknown colors (outside tolerance)
+./leaves_oak_opaque - 32x PNG has unknown colors (outside tolerance)
+./leaves_spruce_opaque_mers.tga - inconsistent color mapping
+./lectern_base - 32x PNG has unknown colors (outside tolerance)
+./lectern_front_mers.tga - inconsistent color mapping
+./lever - 32x PNG has unknown colors (outside tolerance)
+./log_acacia - 32x PNG has unknown colors (outside tolerance)
+./log_big_oak - 32x PNG has unknown colors (outside tolerance)
+./log_birch_top_mers.tga - inconsistent color mapping
+./log_jungle_top_mers.tga - inconsistent color mapping
+./log_oak_top_mers.tga - inconsistent color mapping
+./log_spruce_top_mers.tga - inconsistent color mapping
+./log_spruce_top_mers.tga - inconsistent color mapping
+./loom_top - 32x PNG has unknown colors (outside tolerance)
+./mangrove_door_bottom - 32x PNG has unknown colors (outside tolerance)
+./mangrove_door_top - 32x PNG has unknown colors (outside tolerance)
+./mangrove_leaves_opaque_mers.tga - inconsistent color mapping
+./mangrove_propagule_hanging_mers.tga - inconsistent color mapping
+./mangrove_propagule_mers.tga - inconsistent color mapping
+./mangrove_propagule_hanging_mers.tga - inconsistent color mapping
+./mangrove_roots_top - 32x PNG has unknown colors (outside tolerance)
+./mangrove_shelf - 32x PNG has unknown colors (outside tolerance)
+./medium_amethyst_bud_mers.tga - inconsistent color mapping
+./melon_stem_connected_mers.tga - inconsistent color mapping
+./melon_stem_disconnected_mers.tga - inconsistent color mapping
+./muddy_mangrove_roots_side_mers.tga - inconsistent color mapping
+./muddy_mangrove_roots_top_mers.tga - inconsistent color mapping
+./mud_bricks_mers.tga - inconsistent color mapping
+./muddy_mangrove_roots_side_mers.tga - inconsistent color mapping
+./mushroom_brown_mers.tga - inconsistent color mapping
+./mushroom_red_mers.tga - inconsistent color mapping
+./nether_sprouts_mers.tga - inconsistent color mapping
+./nether_wart_stage_0_mers.tga - inconsistent color mapping
+./nether_wart_stage_1_mers.tga - inconsistent color mapping
+./nether_wart_stage_2_mers.tga - inconsistent color mapping
+./observer_back_lit_mers.tga - inconsistent color mapping
+./observer_top_mers.tga - inconsistent color mapping
+./oxidized_copper_bars_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_lit_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_powered_mers.tga - inconsistent color mapping
+./oxidized_copper_chain1_mers.tga - inconsistent color mapping
+./oxidized_copper_chain2_mers.tga - inconsistent color mapping
+./oxidized_copper_door_bottom_mers.tga - inconsistent color mapping
+./oxidized_copper_door_top_mers.tga - inconsistent color mapping
+./oxidized_copper_grate_mers.tga - inconsistent color mapping
+./oxidized_copper_lantern_mers.tga - mismatched size
+./oxidized_copper_trapdoor_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_lit_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_powered_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+./oxidized_copper_bulb_lit_powered - 32x PNG has unknown colors (outside tolerance)
+./oxidized_copper_bulb_powered - 32x PNG has unknown colors (outside tolerance)
+./oxidized_copper_door_top - 32x PNG has unknown colors (outside tolerance)
+./pale_moss_carpet_side_base_mers.tga - inconsistent color mapping
+./pale_moss_carpet_side_tip_mers.tga - inconsistent color mapping
+./pale_oak_leaves_opaque_mers.tga - inconsistent color mapping
+./pale_oak_shelf - 32x PNG has unknown colors (outside tolerance)
+./pink_petals - 32x PNG has unknown colors (outside tolerance)
+./pink_petals_stem_mers.tga - inconsistent color mapping
+./piston_inner_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_1_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_2_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_3_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_4_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_1_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_2_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_3_mers.tga - inconsistent color mapping
+./pitcher_crop_bottom_stage_4_mers.tga - inconsistent color mapping
+./pitcher_crop_top_stage_3_mers.tga - inconsistent color mapping
+./pitcher_crop_top_stage_4_mers.tga - inconsistent color mapping
+./polished_blackstone_bricks_mers.tga - inconsistent color mapping
+./portal - 32x PNG has unknown colors (outside tolerance)
+./portal_placeholder - 32x PNG has unknown colors (outside tolerance)
+./potatoes_stage_0_mers.tga - inconsistent color mapping
+./potatoes_stage_1_mers.tga - inconsistent color mapping
+./potatoes_stage_2_mers.tga - inconsistent color mapping
+./potatoes_stage_3_mers.tga - inconsistent color mapping
+./potted_azalea_bush_plant_mers.tga - inconsistent color mapping
+./potted_azalea_bush_side_mers.tga - inconsistent color mapping
+./potted_flowering_azalea_bush_plant_mers.tga - inconsistent color mapping
+./potted_flowering_azalea_bush_side_mers.tga - inconsistent color mapping
+./pumpkin_face_on_mers.tga - inconsistent color mapping
+./pumpkin_stem_connected_mers.tga - inconsistent color mapping
+./pumpkin_stem_disconnected_mers.tga - inconsistent color mapping
+./purpur_pillar_top_mers.tga - inconsistent color mapping
+./quartz_block_chiseled_top_mers.tga - inconsistent color mapping
+./quartz_block_chiseled_top - 32x PNG has unknown colors (outside tolerance)
+./quartz_block_lines_top_mers.tga - inconsistent color mapping
+./rail_detector_powered_mers.tga - inconsistent color mapping
+./rail_normal_turned_mers.tga - inconsistent color mapping
+./raw_copper_block - 32x PNG has unknown colors (outside tolerance)
+./redstone_dust_cross - 32x PNG has unknown colors (outside tolerance)
+./redstone_dust_line - 32x PNG has unknown colors (outside tolerance)
+./redstone_ore - 32x PNG has unknown colors (outside tolerance)
+./redstone_torch_off - 32x PNG has unknown colors (outside tolerance)
+./redstone_torch_on_mers.tga - inconsistent color mapping
+./red_sandstone_bottom_mers.tga - inconsistent color mapping
+./red_sandstone_carved_mers.tga - inconsistent color mapping
+./red_sandstone_normal_mers.tga - inconsistent color mapping
+./red_sandstone_smooth_mers.tga - inconsistent color mapping
+./red_sandstone_top_mers.tga - inconsistent color mapping
+./repeating_command_block_back - 32x PNG has unknown colors (outside tolerance)
+./repeating_command_block_back_mipmap_mers.tga - inconsistent color mapping
+./repeating_command_block_conditional_mipmap_mers.tga - mismatched size
+./repeating_command_block_front - 32x PNG has unknown colors (outside tolerance)
+./repeating_command_block_side - 32x PNG has unknown colors (outside tolerance)
+./repeating_command_block_side_mipmap_mers.tga - inconsistent color mapping
+./respawn_anchor_side0_mers.tga - inconsistent color mapping
+./respawn_anchor_side1_mers.tga - inconsistent color mapping
+./respawn_anchor_side2_mers.tga - inconsistent color mapping
+./respawn_anchor_side3_mers.tga - inconsistent color mapping
+./respawn_anchor_side4_mers.tga - inconsistent color mapping
+./respawn_anchor_top - 32x PNG has unknown colors (outside tolerance)
+./sandstone_bottom_mers.tga - inconsistent color mapping
+./sandstone_carved_mers.tga - inconsistent color mapping
+./sandstone_normal_mers.tga - inconsistent color mapping
+./sandstone_smooth_mers.tga - inconsistent color mapping
+./sandstone_top_mers.tga - inconsistent color mapping
+./sculk_catalyst_bottom_mers.tga - mismatched size
+./sculk_catalyst_side_bloom_mers.tga - mismatched size
+./sculk_catalyst_side_mers.tga - mismatched size
+./sculk_catalyst_top_bloom_mers.tga - mismatched size
+./sculk_catalyst_top_mers.tga - mismatched size
+./sculk_sensor_bottom_mers.tga - mismatched size
+./sculk_sensor_side_mers.tga - mismatched size
+./sculk_sensor_tendril_active_mers.tga - mismatched size
+./sculk_sensor_tendril_inactive_mers.tga - mismatched size
+./sculk_sensor_top_mers.tga - mismatched size
+./sculk_shrieker_bottom_mers.tga - mismatched size
+./sculk_shrieker_can_summon_inner_top_mers.tga - mismatched size
+./sculk_shrieker_inner_top_mers.tga - mismatched size
+./sculk_shrieker_side_mers.tga - mismatched size
+./sculk_shrieker_top_mers.tga - mismatched size
+./sculk_vein_mers.tga - inconsistent color mapping
+./sculk_catalyst_side_bloom_mers.tga - mismatched size
+./sculk_catalyst_top_bloom_mers.tga - mismatched size
+./sculk_catalyst_top_mers.tga - mismatched size
+./sculk_sensor_side_mers.tga - inconsistent color mapping
+./sculk_shrieker_can_summon_inner_top - 32x PNG has unknown colors (outside tolerance)
+./sculk_shrieker_inner_top - 32x PNG has unknown colors (outside tolerance)
+./seagrass_carried_mers.tga - mismatched size
+./seagrass_doubletall_bottom_a.tga - mismatched size
+./seagrass_doubletall_bottom_a_mers.tga - mismatched size
+./seagrass_doubletall_bottom_b.tga - mismatched size
+./seagrass_doubletall_bottom_b_mers.tga - mismatched size
+./seagrass_doubletall_top_a.tga - mismatched size
+./seagrass_doubletall_top_a_mers.tga - mismatched size
+./seagrass_doubletall_top_b.tga - mismatched size
+./seagrass_doubletall_top_b_mers.tga - mismatched size
+./seagrass_carried_mers.tga - inconsistent color mapping
+./sea_lantern - 32x PNG has unknown colors (outside tolerance)
+./sea_pickle_mers.tga - inconsistent color mapping
+./short_dry_grass_mers.tga - inconsistent color mapping
+./shulker_top_pink - 32x PNG has unknown colors (outside tolerance)
+./small_amethyst_bud_mers.tga - inconsistent color mapping
+./small_dripleaf_side_mers.tga - inconsistent color mapping
+./small_dripleaf_stem_bottom_mers.tga - inconsistent color mapping
+./small_dripleaf_top_mers.tga - inconsistent color mapping
+./smithing_table_side_mers.tga - inconsistent color mapping
+./smoker_front_off - 32x PNG has unknown colors (outside tolerance)
+./smoker_front_on - 32x PNG has unknown colors (outside tolerance)
+./smoker_side - 32x PNG has unknown colors (outside tolerance)
+./sniffer_egg_not_cracked_west - 32x PNG has unknown colors (outside tolerance)
+./soul_campfire_log_lit_mers.tga - mismatched size
+./soul_torch_mers.tga - inconsistent color mapping
+./sponge_wet_mers.tga - inconsistent color mapping
+./spore_blossom_base_mers.tga - inconsistent color mapping
+./spore_blossom_mers.tga - inconsistent color mapping
+./stonebrick_carved_mers.tga - inconsistent color mapping
+./stonebrick_cracked_mers.tga - inconsistent color mapping
+./stonebrick_mers.tga - inconsistent color mapping
+./stonebrick_mossy_mers.tga - inconsistent color mapping
+./stonecutter2_bottom_mers.tga - inconsistent color mapping
+./stonecutter2_saw.tga - mismatched size
+./stonecutter2_saw_mers.tga - mismatched size
+./stonecutter2_side_mers.tga - inconsistent color mapping
+./stonecutter2_top_mers.tga - inconsistent color mapping
+./stone_andesite_mers.tga - inconsistent color mapping
+./stone_andesite_smooth_mers.tga - inconsistent color mapping
+./stone_diorite_mers.tga - inconsistent color mapping
+./stone_diorite_smooth_mers.tga - inconsistent color mapping
+./stone_granite_mers.tga - inconsistent color mapping
+./stone_granite_smooth_mers.tga - inconsistent color mapping
+./stone_slab_side_mers.tga - inconsistent color mapping
+./stone_slab_top_mers.tga - inconsistent color mapping
+./stonebrick_carved_mers.tga - inconsistent color mapping
+./stonebrick_cracked_mers.tga - inconsistent color mapping
+./stonebrick_mossy_mers.tga - inconsistent color mapping
+./stonecutter2_top - 32x PNG has unknown colors (outside tolerance)
+./stonecutter_side - 32x PNG has unknown colors (outside tolerance)
+./stonecutter_top - 32x PNG has unknown colors (outside tolerance)
+./stone_andesite_smooth_mers.tga - inconsistent color mapping
+./stone_diorite_smooth_mers.tga - inconsistent color mapping
+./stone_granite_smooth_mers.tga - inconsistent color mapping
+./stone_slab_top_mers.tga - inconsistent color mapping
+./stripped_acacia_log_top_mers.tga - inconsistent color mapping
+./stripped_bamboo_block_top_mers.tga - inconsistent color mapping
+./stripped_bamboo_block_top - 32x PNG has unknown colors (outside tolerance)
+./stripped_birch_log - 32x PNG has unknown colors (outside tolerance)
+./stripped_cherry_log_top_mers.tga - inconsistent color mapping
+./stripped_dark_oak_log_top_mers.tga - inconsistent color mapping
+./stripped_jungle_log_top_mers.tga - inconsistent color mapping
+./stripped_oak_log_top_mers.tga - inconsistent color mapping
+./stripped_pale_oak_log_top_mers.tga - inconsistent color mapping
+./stripped_spruce_log_top_mers.tga - inconsistent color mapping
+./structure_block - 32x PNG has unknown colors (outside tolerance)
+./structure_block_corner - 32x PNG has unknown colors (outside tolerance)
+./structure_block_data - 32x PNG has unknown colors (outside tolerance)
+./structure_block_export - 32x PNG has unknown colors (outside tolerance)
+./structure_block_load - 32x PNG has unknown colors (outside tolerance)
+./structure_block_save - 32x PNG has unknown colors (outside tolerance)
+./sweet_berry_bush_stage0_mers.tga - inconsistent color mapping
+./sweet_berry_bush_stage1_mers.tga - inconsistent color mapping
+./sweet_berry_bush_stage2_mers.tga - inconsistent color mapping
+./sweet_berry_bush_stage3_mers.tga - inconsistent color mapping
+./tallgrass - 32x PNG has unknown colors (outside tolerance)
+./tall_dry_grass_mers.tga - inconsistent color mapping
+./torchflower_crop_stage_0_mers.tga - inconsistent color mapping
+./torchflower_crop_stage_1_mers.tga - inconsistent color mapping
+./torchflower_mers.tga - inconsistent color mapping
+./torchflower_crop_stage_0 - 32x PNG has unknown colors (outside tolerance)
+./torchflower_crop_stage_1 - 32x PNG has unknown colors (outside tolerance)
+./torch_on_mers.tga - inconsistent color mapping
+./trapped_chest_front - 32x PNG has unknown colors (outside tolerance)
+./trial_spawner_side_active_ominous_mers.tga - inconsistent color mapping
+./trial_spawner_side_inactive_mers.tga - inconsistent color mapping
+./trial_spawner_side_inactive_ominous_mers.tga - inconsistent color mapping
+./trial_spawner_side_inactive_ominous_mers.tga - inconsistent color mapping
+./trial_spawner_top_ejecting_reward_ominous - 32x PNG has unknown colors (outside tolerance)
+./trip_wire - 32x PNG has unknown colors (outside tolerance)
+./tuff_bricks_mers.tga - inconsistent color mapping
+./vault_front_ejecting_ominous_mers.tga - inconsistent color mapping
+./vault_front_ejecting_ominous - 32x PNG has unknown colors (outside tolerance)
+./vault_front_off_ominous_mers.tga - inconsistent color mapping
+./vault_front_on_ominous_mers.tga - inconsistent color mapping
+./vault_top_ejecting_mers.tga - inconsistent color mapping
+./vault_top_ejecting_ominous_mers.tga - inconsistent color mapping
+./vault_top_ominous_mers.tga - inconsistent color mapping
+./vault_top_ejecting_ominous_mers.tga - inconsistent color mapping
+./vault_top_ominous_mers.tga - inconsistent color mapping
+./warped_roots_mers.tga - inconsistent color mapping
+./warped_roots_pot_mers.tga - inconsistent color mapping
+./warped_roots_pot_mers.tga - inconsistent color mapping
+./waterlily_mers.tga - inconsistent color mapping
+./water_flow - missing 32x PNG
+./water_flow_grey - 32x PNG has unknown colors (outside tolerance)
+./water_still_grey - 32x PNG has unknown colors (outside tolerance)
+./weathered_copper_bars_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_lit_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_powered_mers.tga - inconsistent color mapping
+./weathered_copper_chain1_mers.tga - inconsistent color mapping
+./weathered_copper_chain2_mers.tga - inconsistent color mapping
+./weathered_copper_door_bottom_mers.tga - inconsistent color mapping
+./weathered_copper_door_top_mers.tga - inconsistent color mapping
+./weathered_copper_grate_mers.tga - inconsistent color mapping
+./weathered_copper_lantern_mers.tga - mismatched size
+./weathered_copper_trapdoor_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_lit_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_lit_powered_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_powered_mers.tga - inconsistent color mapping
+./weathered_copper_bulb_lit - 32x PNG has unknown colors (outside tolerance)
+./weathered_copper_bulb_lit_powered - 32x PNG has unknown colors (outside tolerance)
+./weathered_copper_bulb_powered - 32x PNG has unknown colors (outside tolerance)
+./weathered_copper_door_top - 32x PNG has unknown colors (outside tolerance)
+./weathered_copper_lantern_mers.tga - inconsistent color mapping
+./web - 32x PNG has unknown colors (outside tolerance)
+./weeping_vines - 32x PNG has unknown colors (outside tolerance)
+./weeping_vines_base - 32x PNG has unknown colors (outside tolerance)
+./weeping_vines_bottom - 32x PNG has unknown colors (outside tolerance)
+./weeping_vines_plant - 32x PNG has unknown colors (outside tolerance)
+./wheat_stage_0_mers.tga - inconsistent color mapping
+./wheat_stage_1_mers.tga - inconsistent color mapping
+./wheat_stage_2_mers.tga - inconsistent color mapping
+./wheat_stage_3_mers.tga - inconsistent color mapping
+./wheat_stage_4_mers.tga - inconsistent color mapping
+./wheat_stage_5_mers.tga - inconsistent color mapping
+./wheat_stage_6_mers.tga - inconsistent color mapping
+./wheat_stage_7_mers.tga - inconsistent color mapping
+./wildflowers_mers.tga - inconsistent color mapping
+./wildflowers_stem_mers.tga - inconsistent color mapping
+./wildflowers_stem_mers.tga - inconsistent color mapping
+./wool_colored_black - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_blue - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_brown - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_cyan - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_gray - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_green - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_light_blue - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_lime - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_magenta - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_orange - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_pink - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_purple - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_red - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_silver - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_white - 32x PNG has unknown colors (outside tolerance)
+./wool_colored_yellow - 32x PNG has unknown colors (outside tolerance)
